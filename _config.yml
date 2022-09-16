@@ -14,7 +14,7 @@ baseurl: "/vtmTranscripts"
 url: "https://mqole.github.io"
 github_username: mqole
 
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 logo: "/assets/images/logo.png"
