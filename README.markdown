@@ -7,5 +7,6 @@ Big WIP, still in the troubleshooting phase. I'm real bad at jekyll so if you ha
 
 ## Known issues/to-do list/whatever
 - Change colour of text in search bar (no idea how to do this.)
-
-
+- Just-the-docs `callout` css is broken.
+- External links in `_config.yml` do not display
+- **figure out why it works locally but not on gh pages I GUESS.**
