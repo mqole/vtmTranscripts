@@ -62,8 +62,6 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: GitHub page
-    url: https://github.com/mqole/vtmTranscripts
   - title: Watch NYbN on YouTube
     url: https://youtube.com/playlist?list=PL4qzoETfmhLZDmpmGP_rs4bgstBFZmlzN
 
