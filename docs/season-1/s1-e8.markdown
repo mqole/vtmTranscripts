@@ -10,1475 +10,2947 @@ nav_order: 2 <!--- Number 1 should always be the parent page --->
 ### WIP- current captions directly ripped from youtube.
 
 0:00 - hello good evening and welcome to our vampire the masquerade chronicle new
+
 0:06 - york by night this night
+
 0:11 - we conclude the first season of our story with season 1 episode 8
+
 0:18 - virtue overthrow let's meet our
+
 0:23 - vampires of questionable virtue hi i'm alex ward and i'm playing isaac
+
 0:30 - azumitsi hi i'm mayana varan and i'm playing seraph a ravnos
+
 0:36 - hi i'm mabria eingar and i'm playing a fuego a minor murderer
+
 0:42 - ventrilo i'm joey rasul i'm playing ray the minor murderer as well
+
 0:48 - gang girl sensing a trend here
+
 0:53 - it'll be interesting to see if that trend continues and what consequences it has if it does
+
 1:01 - before we start our finale of this season let's talk about a few things that we
+
 1:08 - spoke about at the very beginning of this chronicle and the first is
+
 1:13 - consent and safety are critical parts of any good role-playing experience and we do take it very very seriously
+
 1:19 - the players and i have been through session zeros and more than one session
+
 1:25 - zeroes together to talk about how we will handle salt consent and safety issues i know there
+
 1:30 - are lines and veils and we will respect those throughout the story
+
 1:35 - since it's come up occasionally we do use the rule of cool sometimes
+
 1:41 - when the narrative is moving very quickly we'll make rulings or decisions that
+
 1:47 - emphasize the narrative and character opportunity rather than the strict ruling as written
+
 1:57 - now let's thank some special people who made this season possible we'd like to thank blackmagic designs
+
 2:04 - for these marvelous cameras and their support equipment that bring us to you in very unliving color
+
 2:11 - renegade game studios for making sure that we have all the books and hunger dice we could
+
 2:17 - possibly want dogmite games for the screen
+
 2:23 - and our players dice boxes and then finally backblaze cloud storage
+
 2:30 - and remember that yev is canon
+
 2:37 - as a prologue let's look back a little bit
+
 2:43 - over the season and think about where we started being a fledgling kindred
+
 2:50 - in the world of darkness is in some ways the most fundamental vampire experience
+
 2:57 - these are the nights of beard fangs running on raw nerves moment-to-moment
+
 3:02 - struggles with the beast long before most of the kindred really know what
+
 3:08 - they're doing they're monsters just so close to being
+
 3:14 - human and yet not they're monsters worried about bigger
+
 3:19 - monsters they're monsters worried about all the things they don't know
+
 3:25 - and they don't know a great deal yet these anarchs survive night to night
+
 3:32 - forming loose groups and mistakes are inevitable in this particular situation
+
 3:40 - they're trying to keep ahead of calamity even as they feel the excitement of the unpredictable
+
 3:47 - the ancilla the elders the ancient creatures among the kindred
+
 3:52 - they know what they're going to be doing a year from now five years 10 years
+
 3:57 - from tonight often young kindred can't even see beyond the next 10 minutes
+
 4:04 - and so coterie becomes key very quickly and
+
 4:10 - most kindred learn this early in their own lives they learn often that this is all the vampire has
+
 4:16 - just themselves and their coterie and it's imperfect
+
 4:21 - it's a kind of a found family of the night
+
 4:27 - if they want to survive well this is probably the best way to do it
+
 4:34 - with this firmly in mind let's tell a vampire story
+
 4:42 - [Music]
+
 4:48 - [Music]
+
 5:28 - [Music]
+
 5:40 - [Music]
+
 5:47 - so
+
 5:54 - [Music]
+
 6:10 - vampires some housekeeping you begin tonight
+
 6:16 - at one hunger several nights have passed
+
 6:22 - since you were last together at the cage if your willpower is damaged
+
 6:29 - superficially you can now recover that damage the equivalent of whichever is higher
+
 6:35 - your resolve or your composure except you ray
+
 6:41 - because you took aggravated will power damage
+
 6:48 - but you have actively and directly
+
 6:54 - pursued your ambition so you too should recover your willpower
+
 7:02 - all right there is a mysterious island
+
 7:10 - in the east river just off the bronx in fact you can see it from the
+
 7:16 - riverside in front of the cage it has a human population of exactly
+
 7:23 - zero few people in new york city even know about it
+
 7:28 - and those who do have never been here because no one is allowed to visit north
+
 7:34 - brother island it sits in the title straight that was
+
 7:41 - once known as the hell gate a dangerous stretch of river
+
 7:46 - that wrecked hundreds of sailing ships and deposited their wreckage on the shore of these islands and on the
+
 7:53 - shore of the bronx too before it was tamed by modern engineering
+
 8:00 - in the late 19th century this island was chosen as the new home for riverside
+
 8:05 - hospital a quarantine hospital for new yorkers
+
 8:10 - with serious illnesses such as smallpox or tuberculosis
+
 8:16 - in fact its most famous resident was none other than typhoid mary
+
 8:22 - a person who was obliged to remain on the island for a quarter of a century to prevent her from spreading the deadly
+
 8:29 - disease to the city so imagine it now
+
 8:35 - as we approach the island in a small boat its motor pushing us
+
 8:42 - slowly but inexorably across the darkly flowing waters of the east river
+
 8:49 - perhaps images come uncomfortably to mind of charon guiding his vessel across the
+
 8:54 - river sticks the lights of manhattan its famous skyline glowing brightly against the low
+
 9:02 - clouds passes to the right sliding off the horizon
+
 9:08 - island ahead of you is just a black shape in the river
+
 9:15 - the hospital itself is long gone but there are extensive ruins of huge
+
 9:21 - brick and wooden buildings here peeking out from the canopy of trees
+
 9:28 - like most abandoned places it's overgrown with vegetation iv weeds tall grasses
+
 9:35 - a shadow of its former self the boats
+
 9:40 - small water churns propelling you toward an old ruined pier
+
 9:47 - the wooden pilings marching away from the land rising above
+
 9:52 - the surface of the river like old wooden teeth
+
 9:57 - this appears to be the only safe landing spot sparse it is and so this is where you dock the boat
+
 10:07 - i appreciate you all taking this part of the evening to come with me as i
+
 10:12 - said this person will be able to answer some of the questions that i believe you have
+
 10:19 - and just give you an idea of some of the other things
+
 10:25 - in this world yeah
+
 10:30 - thank you for having us you're welcome i'm not the only one thinking it right
+
 10:37 - no not at all could you take the glasses off sure i don't know why
+
 10:42 - okay what yeah what yeah hey isaac what do they see when you remove
+
 10:48 - your glasses they see isaac the way he would normally present himself except
+
 10:56 - a little more a little better a little different like
+
 11:02 - an idealized version of what one would want themselves to look like
+
 11:09 - okay what are you doing like a mind thing i try to use the insulable mind
+
 11:16 - unswayable mind you are afraid that he might be trying to affect you yeah i don't know create some
+
 11:23 - sort of illusion yeah that might interfere with your perception of the world yup hmm
+
 11:29 - all right look sarah's got chemistry i don't know what's happening right now he's hot and i'm confused
+
 11:34 - hot and confused well unswayable mind is free you don't have to make a rouse
+
 11:39 - check or call upon the power of the blood and it does fortify your mind against
+
 11:45 - unwanted effects it's pretty wanted but even after
+
 11:51 - ensuring that you can better resist mental falsehoods
+
 11:57 - his face doesn't change no it is not a mind thing as you say
+
 12:03 - okay well um you look great thank you it is a trade
+
 12:09 - secret oh okay cool
+
 12:14 - that's great she's just not quite making eye contact anymore yeah
+
 12:20 - i want to say um just to like put to bed some of the like you know weird tension from a little
+
 12:26 - while ago um i apologize for being
+
 12:31 - tense and terse with you um it's hard to know who to trust that's
+
 12:38 - fair and smart yeah but i think i and i don't speak for anyone but me i have to trust someone so
+
 12:46 - i'm gonna trust you so thank you well i appreciate your trust and i'm sorry if i came off a little
+
 12:54 - less than polite i um wanted you to understand the gravity of the situation and i want
+
 13:01 - you to also be very clear i don't care that you did what you did
+
 13:08 - i just wanted to make sure you were being smart about it hmm okay thanks
+
 13:14 - we all have things we've done hey can you wink at me real quick oh my
+
 13:20 - god amazing love it here this is great now
+
 13:25 - um just to uh wrap something up
+
 13:31 - i did collect the skull we needed so oh my god something we can take care
+
 13:36 - of at some point at our leisure it has been acquired i completely forgot thanks for doing
+
 13:42 - that thank you welcome you were all busy with other things and i thought it would be uh best if i just went and got it
+
 13:48 - yeah that's one down what about the white
+
 13:54 - i haven't taken care of that we'll still have that on our to-do list did you have any trouble you went over
+
 13:59 - to atlas yeah was it there no the white was not no the skull oh yes that's what it was and i um
+
 14:07 - there were others there a kindred and some security and they were [ __ ] uh appropriately
+
 14:13 - cowed okay ones that live in our territory or no camarilla oh okay
+
 14:20 - i supposedly stole the skull from a certain kindred that i do not know um by the
+
 14:27 - name of rafferty and uh hold on sorry one more time you sure about that
+
 14:33 - name that was the name that was told to me oh [ __ ] apparently that was
+
 14:39 - why that's my sire and i immediately go and fish out the gun
+
 14:45 - she produces a from my purse and the note that's just the letter r the rest is r afferty
+
 14:52 - it's a nine millimeter pistol it's brand new probably never been fired uh i checked the clip are these normal
+
 14:57 - bullets they certainly are ah well then angela does not need to complete that mission how the
+
 15:04 - question for another day i'm not worried about it okay yeah so apparently i have taken the skull from the position of
+
 15:09 - your sire so i'm sure we will have to deal with that at some point okay you know are you like worried about that
+
 15:15 - at all i have a lot of anxiety and feelings about this and you seem as
+
 15:21 - calm as you always are and i don't know what to do with that i've never met rafferty and have no idea of his capabilities so until i know those
+
 15:27 - things i won't worry about them did you know your sire was keeping a warehouse on our block do i look like i
+
 15:33 - know any [ __ ] thing about my sire like i don't freak out and start crying when i get a
+
 15:39 - note from him from simone i'm just gonna finally start reading argus's journal and scanning over it with my phone um so
+
 15:46 - you're using your phone to translate yeah i'm gonna use like the google camera feature that they have
+
 15:53 - slow going yeah not the most convenient place to do that in a little boat in the middle of the east river at night this
+
 15:59 - doesn't involve me so i just despite that let me give you a general impression of
+
 16:06 - the first few pages okay it is indeed a journal and not just a random collection of
+
 16:12 - notes it appears to be an account of argus's early nights
+
 16:18 - as a kindred and it suggests that his travels began
+
 16:25 - somewhere in europe okay it talks a lot about the difficulty of
+
 16:32 - adjusting to unlife and some of the challenges
+
 16:37 - that he had to experience and learn from it's going to be fascinating reading when you have more time to really dig
+
 16:43 - into it he also had this habit of sketching interesting individuals places and
+
 16:50 - things that he saw the um so uh
+
 16:55 - unfortunately this is an interesting turn of events but uh it is
+
 17:01 - how do i break this down i don't worry about things
+
 17:07 - as much as possible because if i know if i anger another kindred
+
 17:13 - and they can kill me they will if they can't i will still be alive
+
 17:19 - so i have no real choice in the matter yeah so i don't worry about it
+
 17:26 - until it becomes an active problem in my existence on that note
+
 17:33 - we are going to meet my sire now yeah as i'm sure you've gathered
+
 17:39 - uh myself and by extension my sire find politeness very important
+
 17:46 - top manners when you meet them is excessively important and i cannot
+
 17:53 - stress it enough all right i'm in a good mood tonight
+
 17:59 - are you that's rare let's not piss him off before we get you're so right
+
 18:06 - but i hope you all had a chance to think about some things over the last couple nights
+
 18:12 - yeah yeah yeah good okay
+
 18:20 - yes okay no i also thought about some things in the time that we were not
+
 18:25 - all in the same space yes i just we know no one said anything it's not you're going to say something are you good
+
 18:32 - like i said i'm in as good of mood as possible tonight all right fine great
+
 18:39 - isaac angela or michael with you in the boat no
+
 18:45 - they are excluded from this expedition they um michael drove me and um
+
 18:50 - angela is in that car and they're waiting for us to return but did not come on the boat
+
 18:57 - so you are guiding the boat yes you have done this before yes
+
 19:03 - you know where to go you know where to dock it when isaac cuts the motor of the boat
+
 19:09 - and lets it drift forward the last few feet to bump up against those old wooden pilings and the rotting
+
 19:16 - dock they support
+
 19:21 - the only sounds you can hear are the current of the river the very very distant
+
 19:29 - sounds of traffic from the nearest bridge the island itself
+
 19:36 - hmm well the air here feels unnaturally
+
 19:41 - thick and heavy which is strange because at this time of year in the early spring it should feel
+
 19:48 - thin and cool and crisp
+
 19:54 - you can see a broken overgrown asphalt path leading away
+
 20:00 - from the dock and toward the collapsing buildings
+
 20:05 - there are no signs anywhere to tell you what any of this stuff was
+
 20:11 - what its purpose was in better days
+
 20:20 - isaac have you brought any light
+
 20:25 - i did not but i believe people have phones if they need light look i still have the flashlight i got
+
 20:32 - great no that would be helpful considering only some of us can see in the dark
+
 20:38 - okay you don't have to rub it in all the time so using the high powered flashlight
+
 20:43 - that you took from the security guard in the light of a cell phone
+
 20:50 - you can safely traverse the broken
+
 20:56 - [ __ ] pathway
+
 21:02 - you are guiding them yes i'm gutting them are you taking them to the right place yes
+
 21:09 - um it would probably be best to initially let
+
 21:15 - then do the talking and then kind of open up the floor for questions
+
 21:20 - later okay i don't know i've only interacted with them one-on-one
+
 21:26 - and i've never seen them talk to anyone else don't take that as a compliment i mean i
+
 21:31 - literally have not seen them talk to anybody else they live by themselves out here yes as far as i'm born
+
 21:37 - so we like brought something how do they feed out here those are all good questions that i
+
 21:42 - don't have answers for got it oh [ __ ] i don't know a lot about them
+
 21:48 - okay okay uh they perceive time differently
+
 21:55 - they're older uh things are not as immediate so
+
 22:00 - they only tell me things when they feel it's necessary to learn them which can be frustrating and i keep
+
 22:07 - walking the
+
 22:12 - very large structure ahead seems like a gaping black eye
+
 22:18 - in the trees darkness ringed by a
+
 22:24 - flat scar of singed walls walls that have been burned
+
 22:31 - there's a scent hanging in the night air familiar and yet far far away
+
 22:37 - almost but not quite unlike mortal blood
+
 22:44 - and then a light a single yellow orange flare like a candle being
+
 22:51 - lit illuminates one of the broken ground floor windows
+
 23:02 - uh yes that means we're coming by land yes
+
 23:10 - what does that mean i think it's a boat joke or like a like a early america joke that
+
 23:17 - one actually went over my head interesting yeah full revere reference that's
+
 23:26 - so i got it i just didn't finish school um
+
 23:31 - what do you mean i was just out of history like what grade oh i stopped
+
 23:36 - um i sort of started high school
+
 23:42 - oh okay and then left okay
+
 23:47 - no judgment walk up to the door and knock as you raise
+
 23:53 - your hand form a fist knock the door open slowly
+
 24:01 - beyond you see a parlor straight out of a charles dickens novel
+
 24:08 - 19th century styling and decorations in
+
 24:14 - excellent condition everything from the carpets to the drapes from the
+
 24:21 - paintings the art and the furniture could be from a movie set
+
 24:28 - of the 19th century you didn't think any decoration lessons from just just
+
 24:35 - it is illuminated by candlelight
+
 24:41 - your beasts stir a little uncomfortably
+
 24:46 - at the side of so many little flickering flames but it's not enough
+
 24:54 - to test your fear
+
 24:59 - there is a figure standing in the room wearing
+
 25:05 - perhaps unsurprisingly a 19th century gentleman's attire
+
 25:11 - a tailcoat with velvet lapels riding boots
+
 25:17 - vest a gold pocket watch and chain
+
 25:22 - crisp white shirt with a starch collar and a very narrow black
+
 25:29 - necktie perhaps the only concession to more modern fashion
+
 25:36 - face is angular
+
 25:41 - with high brow thin gray hair swept back from the
+
 25:47 - temples an iron gray mustache the hands are long
+
 25:54 - sensitive fingers and the figure still standing
+
 26:00 - inside the parlor bows deeply towards you
+
 26:06 - stands upright and says anta freely much appreciated thank you go safely
+
 26:13 - very much yes and leave something of the happiness that you bring
+
 26:19 - hi curtsy thank you nobody gets it okay
+
 26:25 - please come in and welcome to my house thank you thank you so nice to meet you
+
 26:32 - i am vaclav you are welcome here
+
 26:39 - you notice too that the room is filled with small art objects little sculptures
+
 26:46 - ceramic bowls crystal goblets glass figurines
+
 26:55 - there could be genuine antiques
+
 27:01 - please make yourselves comfortable he indicates four
+
 27:07 - late victorian overstuffed upholstered easy chairs with the high backs
+
 27:14 - the wing arms for your use i appreciate you taking the time to see us
+
 27:22 - it is good to see you my child it's nice to see you as well
+
 27:27 - and you will introduce me to your associates ah apologies uh this would be seraph
+
 27:34 - this is like the font fuego
+
 27:41 - yeah either one and ray like the sun exactly
+
 27:47 - it is a pleasure to welcome you to my abode it is
+
 27:52 - rare that i have visitors so i am quite pleased to entertain you this
+
 28:00 - evening as i said please make yourselves comfortable that's it
+
 28:06 - i turned the chairs out for serif and fuego as we said thank you i sit thank
+
 28:11 - you then take my seat as well hey gentlemen
+
 28:19 - manners are so important don't you think
+
 28:25 - gotta hold on to what keeps us grounded
+
 28:31 - hmm an interesting point of view
+
 28:38 - would you care for a refreshment yes thank you yes of course
+
 28:48 - it's like being in an old film a door behind him swings silently open
+
 28:55 - and an older gentleman who must be the butler judging from his
+
 29:03 - long tails his cravat and the tray he carries
+
 29:10 - glides into the room on the tray is a crystal decanter
+
 29:17 - four glasses and the decanter is of course filled with red liquid
+
 29:23 - the butler offers it to each of you in turn thank you
+
 29:28 - thank you
+
 29:34 - so nice it is warm very fresh recently decanted you might say
+
 29:42 - mortal blood now fuego you are in luck
+
 29:47 - you can drink this she did like the fake sip i was like
+
 29:53 - okay cool whatever strange mystical condition
+
 30:00 - limits the nourishment that you can take also lets you know if what you're about to drink
+
 30:06 - is in fact drinkable and it is are you up here um
+
 30:13 - disturbed oh no not at all this is great actually thank you
+
 30:19 - i'm a bit of a picky eater thanks
+
 30:26 - thank you i did not know what to inquire about
+
 30:31 - preferences ah yes um apologies i was not totally aware you had a feeding
+
 30:37 - preference oh yeah um only people that were born in the bronx actually well
+
 30:44 - then it worked out i guess yeah well only those who are born in the borough
+
 30:53 - interesting if i may be permitted to give you
+
 30:59 - a small bit of unsolicited counsel yes thank you
+
 31:07 - outside your compatriots your coterie
+
 31:12 - do not speak of this oh yeah it gives others power over you
+
 31:20 - thank you oh okay okay we
+
 31:26 - um having newly become a coterie um
+
 31:31 - yes we of course all hear the requiem mass for one
+
 31:37 - vampire but now the song is joined yes
+
 31:42 - um they are all younger than i um
+
 31:47 - so a new chorus forms opening up possibilities
+
 31:56 - and isaac has been very helpful in helping us carry a tune hmm
+
 32:02 - what is the purpose of this unkindness of beasts
+
 32:08 - we have been we have acquired some territory in the bronx i
+
 32:14 - congratulate you thank you well done i
+
 32:19 - did my best it is gratifying to know that whatever else he may be
+
 32:26 - richter observes the courtesies yes
+
 32:32 - and in being put in charge of that territory we have now
+
 32:37 - become a codery because of that as we were all put in charge of the same territory
+
 32:44 - and so each of you bring your own individual song yes
+
 32:49 - and now these songs begin to play over and through one another
+
 32:54 - yes we are rehearsing so what will your dance be
+
 33:01 - i think that is we are just finding it out
+
 33:07 - it has only been a number of nights very few that we have been a group but
+
 33:14 - i contacted you because most of them either
+
 33:21 - do not know or have a unpleasant relationship with their sire
+
 33:27 - so it often is especially for the rebellious
+
 33:32 - among us and they were lacking much information
+
 33:42 - about kindred life in general my child have i not instructed you well
+
 33:48 - no you have very much and i have imparted that but i just wanted them to see
+
 33:56 - what it is to be not
+
 34:02 - this young some perspective
+
 34:07 - it will be my great honor to answer your questions about these matters
+
 34:13 - but my joke of welcoming aside
+
 34:19 - i am not so old it is true it is rare that i entertain visitors and get
+
 34:25 - to indulge my taste for things of the past but a little over
+
 34:31 - perhaps a century and a quarter no more and in this long period i have
+
 34:38 - had a long sleep
+
 34:44 - ah you have been invited as a guest
+
 34:52 - it is my responsibility to make sure that your every comfort
+
 34:58 - is catered to here and that you will go safely as well it would
+
 35:03 - bring enormous shame upon this house if it were to be
+
 35:08 - otherwise so you should feel free to speak okay um thank you
+
 35:16 - uh a long sleep what is yeah the torpor yes
+
 35:25 - when we receive more damage than our physical forms can
+
 35:30 - endure and yet we do not pass into the final death
+
 35:36 - we sleep and this sleep may be brief or long depending on
+
 35:43 - many variables it is possible for summer
+
 35:49 - to choose to sleep for a time
+
 35:54 - i chose to sleep i was dissatisfied with the world
+
 36:00 - but we cannot sleep forever that would be
+
 36:06 - death and how do you feel about the one you woke up into
+
 36:11 - hmm a direct question you
+
 36:16 - prefer to cut to the chase
+
 36:23 - i found that my patience is a little shorter in my new life yes i can
+
 36:29 - smell your your beast it's right your shoulder whispers in your ear
+
 36:37 - urges you to do things that are at best ill-advised and yet
+
 36:42 - freeing so it makes it easier to talk if i
+
 36:48 - can shove him out of the way as quickly as possible allow me to return your courtesy
+
 36:55 - of honesty i do not as you might guess
+
 37:02 - find this world entirely comfortable but
+
 37:07 - i have things to do things to accomplish and
+
 37:13 - it is necessary that i am here now has anyone else
+
 37:19 - presumed to claim dominion over this island i know the factions in the night are all
+
 37:26 - vying over different territories and if you've been asleep what kept this island in your control
+
 37:33 - how many people mortals did you see on your short walk
+
 37:39 - none fair enough did you see any animals
+
 37:45 - not even the seagulls no so what reason would our kind have to
+
 37:51 - come here okay it is true occasionally
+
 37:58 - there are unwanted visitors unwelcome guests
+
 38:04 - it is my pleasure to receive them but
+
 38:10 - we seldom say farewell they tend to stay
+
 38:15 - cool wow so however there are some among
+
 38:22 - the anarch movement that know of my existence and my home
+
 38:29 - your barren torque for instance have you to make his acquaintance what's
+
 38:34 - his whole deal what do you i'm sorry go ahead please ask
+
 38:40 - what do you know about baron torque he craves power and personal authority it is
+
 38:48 - possible that the fire of rebellion still burns within him but i see little
+
 38:53 - evidence of it he has been preaching
+
 39:01 - rebellion against the camarilla the ivory tower for well
+
 39:07 - as long as i have been here well he has not been here so long
+
 39:14 - what is your opinion of the camarilla hmm it was never to my clan's taste
+
 39:24 - i do not say that the ivory tower is altogether wrong in
+
 39:29 - many things but it is not altogether right either i prefer my solitude
+
 39:38 - i admire its courtesies its good manners it's
+
 39:44 - clear establishment of rules but that den of vipers is not for me
+
 39:52 - i admire their dedication to the first tradition
+
 39:57 - the masquerade make no mistake
+
 40:04 - they would not have you even if you wished to join them
+
 40:09 - i i don't care about that i don't want to join them
+
 40:14 - they have not always controlled new york in fact until perhaps two decades ago
+
 40:22 - they were the underdogs and they were very close to being wiped out
+
 40:29 - extinguished destroyed how did that change hmm
+
 40:36 - they're their great enemy the sabbat the black hand as they sometimes call themselves or the
+
 40:44 - sword of cain dramatic ah the sabbath is nothing if not
+
 40:51 - dramatic and with good reason this this
+
 40:57 - medieval vampire death cult relies on fear
+
 41:03 - but you asked what happened it is not entirely clear
+
 41:09 - but careful sharing of information
+
 41:17 - spies a few special guests upon the stage
+
 41:24 - and miscalculations in the black hand
+
 41:31 - allowed the camarilla to what shall we say stage aku
+
 41:38 - and they drove their enemy from the city
+
 41:43 - the reason why as i'm sure you've noticed a lot of
+
 41:50 - kindred that we meet who recognize what i am are uncomfortable yeah that's because
+
 41:56 - traditionally our clan was aligned with the sabbat
+
 42:03 - the sabbats will take any vampire
+
 42:11 - but yes once upon a time
+
 42:16 - our clan was prominent along with our
+
 42:22 - uncomfortable allies de la sombra okay sorry um
+
 42:28 - wait so pushed to the brink of extinction but they fought their way back why
+
 42:34 - wouldn't the camarilla want to bolster their numbers sorry i'm still a little offended that they
+
 42:40 - wouldn't have us if we wanted i don't want to but like why let me clarify i apologize no that's not
+
 42:47 - being unclear you the fire they will have
+
 42:52 - if you do not wish to be part of their organization you must take great care i
+
 42:59 - assure you that you are wanted
+
 43:04 - it is serif who they would not have
+
 43:10 - hmm why is that the creatures who
+
 43:16 - manage the affairs of the ivory tower are
+
 43:23 - prejudiced against ravnos against many
+
 43:28 - but your clan has never been welcome anywhere
+
 43:34 - except in those rare instances where you make
+
 43:39 - friends
+
 43:46 - do you know nothing of your blood i'm starting to learn
+
 43:52 - some call you nomads wanderers i have heard daredevil
+
 44:00 - huh that tracks doesn't it though and the camarilla
+
 44:08 - reestablished itself as the preeminent
+
 44:13 - vampire power in the city and of course their ranks have grown
+
 44:19 - but not everyone is welcome in the club
+
 44:28 - is it traditional for ravnos to take ghouls hmm
+
 44:36 - i do not know the answer i suspect
+
 44:43 - that it is left to the preference of the individual vampire
+
 44:49 - and is there a way for a preference to change
+
 45:07 - you object to the practice i object to a particular person's
+
 45:13 - practice there is immortal of your acquaintance
+
 45:19 - who is in this state and you wish this mortal to not be in
+
 45:24 - this state my mother interesting isaac
+
 45:30 - i was not aware your friends were so fascinating i did not know this piece of information
+
 45:36 - did i i i don't think so yes of course there are ways but
+
 45:43 - you may find some of them unpalatable what are the options
+
 45:48 - well there is the obvious of course to remove her from this mortal coil
+
 45:57 - either permanently or as a kindred
+
 46:04 - the embrace but if she ceases to drink the vitae
+
 46:12 - of the one who keeps her has the thrall she will in time
+
 46:21 - become mere mortal once again however
+
 46:27 - as you no doubt are aware
+
 46:33 - imbibing our vet freezes time halts the progress of years
+
 46:41 - so you see the problem all that time
+
 46:47 - catches up at once
+
 46:52 - that would be 25 years hmm
+
 46:58 - sometimes there are few good choices and yet we must choose
+
 47:04 - can a child turn their parents
+
 47:10 - yes of course there are no impediments to this
+
 47:16 - which i am aware but you may find
+
 47:22 - the relationship as or more difficult
+
 47:27 - than it is now what what's it like being a sire
+
 47:33 - hmm an excellent question
+
 47:39 - and the answer is as varied as all of us
+
 47:45 - i take great pride in my choice of child he has
+
 47:50 - met and in some cases exceeded my expectations
+
 47:55 - as for the future we shall of course watch and see
+
 48:02 - i have known sires to despise their own childhood
+
 48:07 - and child are to despise their sires
+
 48:14 - i think on balance the relationship is rarely satisfactory
+
 48:20 - think of it what must it be to choose to bring another into this
+
 48:27 - not everyone who comes under the night thrives
+
 48:39 - while we're talking about sires i'm sorry uh i've just been watching your two
+
 48:46 - interactions and it seems good and cool is there maybe sometimes when the
+
 48:53 - embrace happens and it's weirder and
+
 49:00 - i don't know how to describe it more
+
 49:06 - more tethered more complicated than like normal maybe love with your sire okay
+
 49:14 - that's a big word um
+
 49:21 - have you not received guidance in the matter of the bonding of
+
 49:27 - blood i mentioned a little bit about the process of
+
 49:33 - glutification and the similarities that can work with that
+
 49:39 - in there are some similarities as to process cooling as there are to uh
+
 49:44 - blood bonding as you said to speak it plainly yeah
+
 49:50 - since i see you are in need of guidance and it is my great pleasure to provide thank you
+
 49:57 - when isaiah creates a child of course some quantity of vitae must be given
+
 50:04 - in exchange for what is taken yeah
+
 50:09 - among the many properties of arvite is the possibility to create
+
 50:17 - an artificial attachment of the heart some have called this the blood bond
+
 50:24 - there are many words for it if
+
 50:31 - an individual drinks the vitae of the same vampire
+
 50:38 - thrice in the course of one year they will become so tightly bound so
+
 50:47 - artificially enamored so in love with that vampire that one cannot say
+
 50:55 - any longer that their will is their own okay um uh you said thrice um but i what
+
 51:04 - if it's could it ever not be that much if it's less than just the once
+
 51:10 - is that a thing each how many times have you drank your blood what are you talking
+
 51:15 - about just the one time when i was embraced then it is mere infatuation and the
+
 51:21 - longer you remain away from your sire have no contacts no
+
 51:28 - dealings and perhaps a concentration of your will
+
 51:33 - the attachment will fade okay you want that right
+
 51:41 - intellectually yes it's possible i mean i haven't seen my sire in a year
+
 51:47 - and i've well i was about to say i turned out fine but we know that's not true
+
 51:57 - i don't feel attached to my sire if that
+
 52:03 - eases your uh mind at all may i be permitted a question
+
 52:10 - mr ray do you know the one
+
 52:15 - who brought you under the night not a clue
+
 52:21 - unfortunate i feel like it's helped me uh
+
 52:28 - avoid some complications it is often the way with your clan in
+
 52:34 - particular that this is done the sire chooses someone who impresses
+
 52:40 - them with strength or durability more
+
 52:45 - a ferocity of instinct and the choice is made
+
 52:50 - the deed is done and the sire vanishes into the night
+
 52:58 - never to be heard from again
+
 53:05 - there's no chance it's just random there always has to be
+
 53:12 - does there have to be of course intention behind it it can be of course random chance there are
+
 53:20 - random embraces acts of passion gone terribly wrong
+
 53:25 - acts of violent acts of remorse when we feel regret for what we have
+
 53:31 - done and bring a vessel a victim into this
+
 53:39 - yeah does not always have to be as you say
+
 53:44 - intention i think it is better when there is
+
 53:55 - i don't know which i'd prefer you one night may choose
+
 54:03 - to do this i shall be very curious to see how you choose to do it
+
 54:13 - i'm barely figuring out how to fend for myself let alone bringing someone else into
+
 54:18 - this yes that is the conundrum of the young in our existence but
+
 54:26 - do not despair yours is the desperate power
+
 54:32 - everyone else even neonates and certainly those older will underestimate you
+
 54:40 - they have their reasons of course but you can surprise them
+
 54:45 - sometimes it takes just a moment one move of one piece on the board to
+
 54:54 - completely alter the status quo
+
 54:59 - you can even surprise yourselves in wonderful and horrible ways
+
 55:08 - what can you do what can i do
+
 55:14 - hmm what has isaac taught you about us well isaac
+
 55:20 - looks a little different he's prettier did you do that is that a thing you all think hey
+
 55:25 - shinier do you think him handsome yeah absolutely what yeah
+
 55:31 - i have never seen it myself but um as you say look at his cheekbones oh my
+
 55:36 - god sorry not to be rude but like it's the easy sell
+
 55:42 - as pleasing to the eye as he may be i chose him for other qualities
+
 55:49 - but you asked what we can do it is odd isn't it one would think that
+
 55:56 - perhaps when two vampires two kindred meet for the first time they would
+
 56:03 - immediately identify themselves by family hello my name is seraph of the ravnos
+
 56:09 - clan but we don't because
+
 56:14 - knowledge is power and to give so much power to another is rarely wise
+
 56:23 - rarely wise isaac what can we do ah we um
+
 56:29 - we have some of us have the ability to like yourself work with animals
+
 56:36 - some of us have the ability like myself to do what you do fuego do
+
 56:42 - tell put your will on people yeah and some of us have the ability to
+
 56:48 - change our shape is that what that is yes
+
 56:56 - no you say it is it permanent it is as permanent as i want it to be
+
 57:02 - i could change it at any time i've been learning new things
+
 57:07 - i congratulate you on your discovery i was wondering how long it might take
+
 57:13 - you that's a new one yes i have recently uh
+
 57:19 - by accident figured out how to change myself to what extent
+
 57:27 - we'll see but as of right now things are a little different and i'm learning
+
 57:34 - those of us who are older can make more substantial changes
+
 57:40 - not only in ourselves but in others
+
 57:46 - both living and unliving i
+
 57:51 - haven't figured that out yet the moment you do
+
 57:57 - i would love some wings i believe that would break the masquerade oh come on
+
 58:05 - be advised hmm it is true depending on the change one
+
 58:12 - must be careful the things that i suspect isaac can now do
+
 58:19 - he should probably not in front of prying eyes yes you
+
 58:24 - correct can you change a white
+
 58:30 - a white ah this is mindless i was going to bring this up
+
 58:37 - um there is one in our territory an intruder yes
+
 58:44 - i believe it was my working theory is that because of a
+
 58:49 - building that is being built in our territory a large skyscraper
+
 58:55 - um this thing was disturbed
+
 59:00 - and let out from underground interesting how do you plan to test your theory
+
 59:06 - we've met it yes we tangled with it for a little bit before
+
 59:11 - we were interrupted and it escaped hmm i see can you make it can you make it better
+
 59:19 - no also how like
+
 59:24 - how is a white maid can you like make one not use like in general
+
 59:32 - you are all familiar with the animus inside you that
+
 59:38 - whispers and urges you to do things that perhaps you would prefer not to do or perhaps
+
 59:45 - you would prefer to do if you had your way this
+
 59:51 - other half of us this some might say inhuman half
+
 59:58 - is always there always ready to urge you
+
 1:00:03 - to be something other than human a white is merely one of us
+
 1:00:11 - that has lost that struggle if you do not safeguard
+
 1:00:20 - that human side of you and find a way to maintain it
+
 1:00:25 - or at least to balance it the same fate awaits you also
+
 1:00:34 - i was right and the only way to get rid of it no hold on that's not all of
+
 1:00:40 - it what do you mean someone told us that this white
+
 1:00:46 - was a sabbat project gone wrong if that were the case literally any of us
+
 1:00:52 - have the capacity and capability to become a white
+
 1:00:58 - so what did the sabbat do that made this different perhaps you did not understand me
+
 1:01:05 - if you surrender completely to your beast and the last
+
 1:01:10 - shred of your humanity is gone from you that is what you will
+
 1:01:16 - become and the sabbat chose to do this
+
 1:01:21 - i must express my appreciation to you my child i did not expect this conversation to be
+
 1:01:28 - quite so diverting my compliments to you on your choice of
+
 1:01:33 - associates
+
 1:01:40 - the sabbat as i knew them i think is different tonight
+
 1:01:48 - we think we are static unchanging creatures and yes for the most part that is true
+
 1:01:58 - but the sabbats have
+
 1:02:04 - in what ways i could not guess somehow adapted to these new nights they are not
+
 1:02:10 - as i knew them even a century ago
+
 1:02:19 - it is possible of course that this white this creature
+
 1:02:28 - was a member of that sect that's failed to adapt
+
 1:02:35 - i know little of their specific practices
+
 1:02:40 - i have heard many things but i have not verified them for myself what i can tell you
+
 1:02:47 - is that it seems that the sabbat
+
 1:02:53 - were all once as we are embraced
+
 1:03:00 - but they have chosen to find path that is neither
+
 1:03:06 - human nor mortal nor
+
 1:03:12 - it is unique some say they embrace
+
 1:03:17 - a specific use of the word their own beasts and allow
+
 1:03:23 - the creature within themselves to have its way and in doing so they
+
 1:03:30 - strip the humanity from them and yet somehow do not fall like the creature you encountered
+
 1:03:37 - instead they become something else something
+
 1:03:43 - i think they would tell you more than human
+
 1:03:49 - a thin blood told me it's better to listen to your beast ah the harbingers
+
 1:03:54 - of doom according to some do you agree
+
 1:03:59 - i myself do not recall ever meeting one of the thin blood of though of course
+
 1:04:05 - one hears legends and rumors some believe in a religious text
+
 1:04:11 - the book of nod that speaks of a great calamity or apocalypse
+
 1:04:18 - for our kind to be uh instigated or heralded by these thin
+
 1:04:24 - bloods but i could not say how and i dare say that anyone who
+
 1:04:29 - says they know the truth is either deluded or a liar
+
 1:04:34 - it is common and i'm sure fairly evident by this point
+
 1:04:41 - that most kindred lie we are
+
 1:04:46 - the most unreliable of narrators many of us know very little beyond what
+
 1:04:53 - we experienced personally or what we have been told how did you learn this much
+
 1:05:00 - i am old and i have come from places where i could learn from others my relationship with my own sire
+
 1:05:08 - was satisfactory there was absolutely they're not
+
 1:05:14 - around anymore not to the best of my knowledge i'm sorry
+
 1:05:21 - huh i believe that thank you is the correct response
+
 1:05:28 - the fact that we were told this white was a spot project gone wrong
+
 1:05:35 - could very much be hearsay or a lie or a mistake did the
+
 1:05:41 - individual who told you this have special knowledge was one of the
+
 1:05:48 - hakata
+
 1:05:54 - never my favorites i would be very cautious in your
+
 1:05:59 - dealings very cautious indeed but
+
 1:06:05 - they do traffic with the dead and i do not refer to us
+
 1:06:11 - i refer to whatever lies beyond the shroud of true
+
 1:06:16 - death ghosts if you will yeah i kind of assumed a ghost would be a reliable narrator in that
+
 1:06:24 - situation ghosts could lie or at least only say what they knew in life
+
 1:06:29 - or throw books at you it was a rude skull
+
 1:06:35 - you did try and manipulate it okay also if i try to like dominate someone's
+
 1:06:42 - ghost in some bones and the worst you can do is throw books like i'm not going to be scared of you i don't really care
+
 1:06:48 - about what cat told us the hakata are if recent phenomena
+
 1:06:55 - they have a lineage that is quite ancient of course but
+
 1:07:02 - not as ancient as some of us some of us were first
+
 1:07:07 - and these late comers like the tremere and the hikata
+
 1:07:13 - armir johnny come lately's
+
 1:07:22 - okay but things may have changed i do not get out much
+
 1:07:27 - so if a white is just us um in like a horrible inevitable future
+
 1:07:35 - same rules apply to get rid of them or is there like a special yes they can be
+
 1:07:40 - destroyed by the same means that you or i could fire of course is sovereign
+
 1:07:46 - against our kind but if you hit it enough it will eventually stop moving the
+
 1:07:52 - difficulty is it they have lost all reason they exist only for the hunt
+
 1:07:59 - and the kill they have perhaps you might say
+
 1:08:06 - an animalistic cunning that guides them but they have no care for what they hurt
+
 1:08:14 - and what they destroy it will not stop until it is stopped
+
 1:08:20 - if you have one hunting your territory you will
+
 1:08:27 - unfortunately need to remove it yes that was the plan yeah if for no other reason
+
 1:08:34 - then it takes what it is yours yes the people of your land
+
 1:08:39 - and this is unacceptable yes
+
 1:08:46 - okay the sabbats hmm
+
 1:08:52 - it has reached my ears that they have other concerns in other parts of the world but
+
 1:08:59 - it does not surprise me completely that they might reappear here
+
 1:09:04 - if that is the case these nights will be very interesting
+
 1:09:11 - how long have you been awake not terribly long
+
 1:09:16 - less than a decade it has not been easy to catch up
+
 1:09:23 - and i fear there are probably gaps in my knowledge as well and i am afraid i am not a
+
 1:09:30 - well connected to the world as it is now i know so much about the world do you have any questions for me
+
 1:09:37 - interesting an exchange of information it's only fair we could start a book club perhaps i
+
 1:09:45 - love books yes i awoke into a an era of a new inquisition yes
+
 1:09:54 - they were not such a problem when i was
+
 1:10:00 - young yes we spoke about this didn't we yes yeah humans yes yes
+
 1:10:06 - my sire and my sire sire would tell me stories of
+
 1:10:12 - a much older world the burning times the medieval times which i did not experience
+
 1:10:18 - when holy mother church burned at the stake unfortunately and
+
 1:10:24 - the innocent and of course vampires
+
 1:10:30 - and now it seems there is a new inquisition only instead of stakes and fire they use
+
 1:10:37 - technology to find and kill us yeah yes yeah masquerade's a little
+
 1:10:43 - harder to uphold when there's cell phones in the internet a bruja warned us that something was coming
+
 1:10:49 - ah well yes she did a supposed
+
 1:10:55 - revolutionary from los angeles do you have
+
 1:11:01 - the thing that she gave you no i did not bring it i thought that would be rude this rebel
+
 1:11:08 - gave you something ah yes um i acquired a stake from them
+
 1:11:14 - something that was used on them interesting souvenir yes i believe she
+
 1:11:21 - was distracted and forgot she had given it to me mm-hmm
+
 1:11:27 - but it is um not something you bring to polite
+
 1:11:33 - company perhaps not well
+
 1:11:39 - i have one more question i'm so sorry you keep apologizing
+
 1:11:45 - it is an unusual experience from the clan of rulers
+
 1:11:51 - say what you would like to know so everything i've been hearing from you
+
 1:11:59 - the learning we have to go find our elders you are bottlenecks for information
+
 1:12:05 - and i'm grateful but it feels short-sighted
+
 1:12:10 - that there isn't more access to information and i remember what we learned about
+
 1:12:16 - shreknet yes are you aware of that it was um
+
 1:12:23 - something the as far if i am to uh remember correctly the nosferatu created which was sort of
+
 1:12:29 - an information hub in the uh on computers
+
 1:12:34 - if it was created by the diggers then i am sure that it is best gone
+
 1:12:40 - well it sounds awful it was the partial creation or at least a
+
 1:12:45 - consequence was the creation of the second inquisition hmm
+
 1:12:52 - i have not made the study of this new burning time but perhaps i shall
+
 1:12:58 - it is um while on paper seemed like a good idea it led
+
 1:13:05 - to the discovery uh mortals being more aware that we existed
+
 1:13:10 - you will find that despite its flaws and there are many
+
 1:13:18 - the camarilla or camarilla depending on your favorite pronunciation
+
 1:13:26 - by and large in general does a better job of
+
 1:13:31 - educating its young then other
+
 1:13:36 - philosophies and factions often kindred find their way into the anarch movement specifically
+
 1:13:44 - because they lack that education where else shall they go
+
 1:13:50 - who else will help them interesting it has become very evident
+
 1:13:56 - that my situation is less than common yeah
+
 1:14:03 - certainly among the faction you choose to associate with yes
+
 1:14:08 - yes it seemed the better of the two considering
+
 1:14:14 - now then i have an important errand that i must
+
 1:14:20 - undertake this evening so as delightful as our time together has
+
 1:14:27 - been and i hope there will be future such delights i am afraid i can spare the time
+
 1:14:34 - for one additional question each
+
 1:14:40 - someone else can go first you mentioned the uh camarilla
+
 1:14:47 - raise their child or more commonly and there's more of a uh
+
 1:14:54 - more of a relationship after an embrace why then
+
 1:15:02 - when someone is turned and not
+
 1:15:08 - met with a sire do they want to get rid of that
+
 1:15:15 - they may have many reasons it might be preference for blood or clan
+
 1:15:24 - it might be that your sire is known to someone and they do not care
+
 1:15:29 - to have you in the club for that reason but i think
+
 1:15:36 - to be direct it is simply ignorance and fear
+
 1:15:41 - of the unknown and the outsider sometimes it's always the simplest
+
 1:15:47 - answers yes i find this to be true at least half the time
+
 1:15:55 - have you ever met a ravnos before yes what were they like
+
 1:16:05 - he was capricious and well-read
+
 1:16:10 - knowledgeable in many things for he had traveled wildly despite the dangers
+
 1:16:16 - inherent in moving from place to place for us especially in these nights
+
 1:16:22 - he covered a great deal of ground and his
+
 1:16:29 - stories of the people he met and the places he had seen were most
+
 1:16:35 - entertaining but i could not say i liked him argus
+
 1:16:46 - is he still here he's my sire
+
 1:16:55 - that's very funny a very illuminating evening indeed then
+
 1:17:02 - your sire the greek kindred known as argos
+
 1:17:18 - i owe you a boon a favor
+
 1:17:23 - to use a more modern term you are unaware of it but you have just
+
 1:17:32 - given me knowledge that i have long sought and it is of great value to me
+
 1:17:38 - i am in your debt and you may call upon me
+
 1:17:44 - when you wish for what you wish if it is within my power to grant it
+
 1:17:51 - i will do so without complaint
+
 1:17:56 - but if argus is your sire and he has
+
 1:18:01 - your mother well won't this be interesting
+
 1:18:10 - very very interesting hardness
+
 1:18:20 - well what about the what about your other guests my child what about miss fuego
+
 1:18:28 - have you a last question
+
 1:18:34 - no but thank you i think i've had enough of questions
+
 1:18:41 - my child you visit so seldom is there anything that you would ask of
+
 1:18:46 - me
+
 1:18:53 - no i appreciate you letting us come here and letting me bring these
+
 1:19:00 - companions of mine but and also i didn't understand
+
 1:19:06 - before but now i do and i appreciate that you didn't
+
 1:19:12 - tell me what i can and cannot do it was tempting to reveal all but
+
 1:19:18 - as i think you will agree for you to be much more enjoyable this path of
+
 1:19:25 - discovery yes it it is
+
 1:19:31 - i have some ideas of things to do but that's for a different time and i
+
 1:19:37 - know you have to go so i very much appreciate your time and thank you for letting us come
+
 1:19:42 - it has been my great pleasure to have you in my home
+
 1:19:48 - he rises from his chair i stand up as well i stand up i fish into my purse and grab a nearly dead
+
 1:19:55 - kindle uh can i do you here there's a bunch of books on
+
 1:20:00 - here if you're trying to catch up on like why no no yeah go go ahead here you go i
+
 1:20:06 - don't give him the charger as well i have like i have like a pocket electricity on this island i'm look i
+
 1:20:12 - think he can find it i accept your gift with
+
 1:20:18 - it's got some of my favorites on there great appreciation yeah he doesn't touch it
+
 1:20:24 - but he indicates a small table where you can place it yeah book club
+
 1:20:30 - thanks thank you good night good night good night thank you hey i head immediately towards the
+
 1:20:37 - door you leave the decrepit old building behind you
+
 1:20:43 - and emerge back into the night which seems like the appropriate place to pause
+
 1:20:50 - our vampire story for now
+
 1:21:09 - hey everyone i'm yev i hear from new york city now victor sent me out here to do some tech work for a friend of his i
+
 1:21:16 - haven't quite met up with them yet but uh but either way very exciting to be sent on location uh now back to the
+
 1:21:21 - blazing uh big apple as they call it lots of fun things about the uh the big apple uh it's got it's got apples uh
+
 1:21:28 - they're huge uh the the nice thing about it is i tend to retain my memory out here back on the
+
 1:21:33 - west coast uh i would lose entire days uh which was super strange uh and very weird uh but
+
 1:21:41 - victor never seemed to be bothered by that in my memory lapses so that was good it didn't affect my employment
+
 1:21:46 - which is great i love everything about it i guess and well anyway now that we're
+
 1:21:51 - out here in the big apple i'm i'm helping some of his friends or at least i'm supposed to be hopefully soon when
+
 1:21:58 - they reach out but i wanted to to tell you uh the same thing that i'm gonna tell them which is
+
 1:22:04 - uh if you go to backblaze.com ny by night that's n-y-b-y-n-i-g-h-t
+
 1:22:12 - you can start a free trial of backblaze we'll back up everything on your computer movies photos music videos contracts
+
 1:22:19 - covenants i don't know things that are important to fancy business people like victor and i'm sure everyone out there
+
 1:22:25 - as well and you'll have a copy of it available to you wherever you are maybe on your computer maybe on your
+
 1:22:31 - phone maybe on your other mobile devices ipads i don't know something anyway go
+
 1:22:37 - to backblaze.com ny by night n-y-b-y-n-i-g-h-t
+
 1:22:43 - give yourself a free trial uh and uh yeah i'm yev by the way i don't know if we've met but uh i'm canon uh victor
+
 1:22:50 - says that all the time i'm not quite sure what that means but uh but that's who i am and we'll see you next time
+
 1:23:09 - [Music]
+
 1:23:23 - [Music]
+
 1:23:58 - [Music]
+
 1:24:30 - [Music]
+
 1:24:59 - [Music]
+
 1:25:09 - [Music]
+
 1:25:26 - [Music]
+
 1:26:08 - [Music]
+
 1:26:25 - [Music]
+
 1:26:41 - [Music]
+
 1:26:53 - [Music]
+
 1:27:10 - [Music]
+
 1:27:18 - [Music]
+
 1:27:53 - [Music]
+
 1:28:07 - so
+
 1:28:13 - [Music]
+
 1:28:32 - so [Music]
+
 1:29:13 - [Music]
+
 1:29:32 - [Music]
+
 1:29:46 - [Music]
+
 1:30:04 - welcome back to our vampire the masquerade chronicle new york by night
+
 1:30:11 - the finale of season one virtue
+
 1:30:16 - overthrow
+
 1:30:22 - we are back in the south bronx where michael and angela your ghouls are
+
 1:30:30 - waiting for you isaac in your vehicle yes which has been
+
 1:30:38 - tagged did you
+
 1:30:44 - i don't remember doing it i i would be really proud of myself if i did
+
 1:30:49 - angela and michael uh greet you with some small embarrassment um
+
 1:30:56 - yeah look uh i'm sorry uh i don't know who he was he just sort of ran by
+
 1:31:02 - the gate yeah i want to investigate the tag do i have to roll for that it's fine yes it's a really quick and dirty job
+
 1:31:10 - but let's see if it has any additional meaning let's roll
+
 1:31:16 - intelligence and shall we say crafts or let no let's say
+
 1:31:23 - streetwise sir okay intelligence streetwise three okay
+
 1:31:33 - three successes three successes
+
 1:31:38 - to the unaware to the ordinary eye it might seem just like a few really hastily sprayed
+
 1:31:46 - black blue lines whoever did it had two cans
+
 1:31:52 - double wielding interesting yes but there is a message in it your time
+
 1:32:00 - on the streets as the preeminent tagger in the bronx
+
 1:32:06 - has of course allowed you to witness an innumerable number of tags some
+
 1:32:13 - excellent some very artistic and some very very crude
+
 1:32:21 - but the particular design you've seen before and according to your
+
 1:32:27 - tagger friends it's a simple warning used by more than a few
+
 1:32:34 - local street gangs and it simply means get out oh no
+
 1:32:40 - what somebody's trying to warn us i decided it wasn't a good idea to shoot him so
+
 1:32:46 - that's fair didn't see him i didn't get a clear look i had a big hoodie on it's a warning
+
 1:32:53 - we're in danger well i mean someone else is new right but if somebody was worried enough about
+
 1:32:59 - you guys to tag the car a very nice car it's not normal danger
+
 1:33:04 - well we can have this you know first yeah let's let's get in the car okay it is very possible it is not necessarily
+
 1:33:11 - us but more my association that they're mad at they would know the car
+
 1:33:17 - it's very possible aren't too many people out on the
+
 1:33:23 - streets this late hour and in this cold
+
 1:33:29 - supposed to be spring early spring to be fair but winter just won't seem to
+
 1:33:34 - release its grip i sky is
+
 1:33:39 - overcast and you think might snow
+
 1:33:47 - i think it i think we should really take care of the white don't you think yeah yeah
+
 1:33:55 - so let's be done let's make our way back to the that bridge shall we
+
 1:34:02 - try not to get hit by a car this time but yes remember i am technically
+
 1:34:09 - affiliated with a street racing gang right so it is very possible that
+
 1:34:14 - there's a more minor concern okay
+
 1:34:20 - sounds like you're going on a white hunt yes yeah very well
+
 1:34:27 - uh so what do you want to do boss you want to do like we did last time just drive around until we see it i mean i mean
+
 1:34:34 - seems like our best option we don't really have an idea of how to track it could i sense the beast
+
 1:34:42 - as like a beacon type thing interesting it's a passive power
+
 1:34:49 - and it certainly would allow you to determine
+
 1:34:55 - whether or not the individual you're looking at is a supernatural creature
+
 1:35:02 - it does have to be defended against
+
 1:35:08 - resolve plus animalism versus composure and subterfuge
+
 1:35:14 - yes i think it's worth a try all right sir so uh same drill as last
+
 1:35:22 - time you want me to drive around until we see a monster eating somebody i believe that's our best if somewhat
+
 1:35:28 - depressing plan do you want to check in with the uh neighborhood watch see if they've
+
 1:35:33 - heard or seen anything recently oh yeah oh angela yes sir do you have a spare knife on you
+
 1:35:40 - of course sir may i see it absolutely
+
 1:35:45 - she reaches under her coat and produces a combat knife whoa hold on what are you gonna do i know you just figured out how
+
 1:35:51 - to change your body but don't cut pieces off of that's jumping to an extreme conclusion i was going to give it to
+
 1:35:57 - serf so she could defend herself ooh free knife oh um last time yeah go go ahead and do that
+
 1:36:03 - that's fine um sorry were you worried about him
+
 1:36:08 - look i just can we just go wow oh man i'm sorry i
+
 1:36:15 - killed the moment say it it was gonna be really nice probably i put the knife in my pocket you take the knife from angela and put
+
 1:36:22 - in your pocket okay now you have a knife nice oh angela i got a better gun so thank
+
 1:36:29 - you i got it thank you really yeah you want to see it
+
 1:36:34 - yes pull it out hmm that is very nice it's brand new also yeah forgive me for asking do you
+
 1:36:42 - know how to shoot it you gotta stop yes
+
 1:36:49 - i promise we should go to a firing range sometime
+
 1:36:56 - well i know where they all are okay there's one over in the
+
 1:37:02 - throggs neck i think that you might enjoy look we'll just practice on the white and see who can hit center mass more this will be fun you might
+
 1:37:09 - understand sir that this is a mission to destroy yes put it down yes
+
 1:37:15 - would be the preferable outcome do we know anything about it treat it as
+
 1:37:20 - though it were one of us hmm well we don't have any special equipment but
+
 1:37:26 - no we don't so you will be
+
 1:37:31 - the snake yes the steak could we go get it
+
 1:37:36 - we don't have to go get it you can see the car make a new it's in the car yes oh what why would i leave it at home
+
 1:37:44 - do i understand that you have brought along the stake that
+
 1:37:50 - annabelle gave you yes it's in the back if it is something that can be used it will be used but i would prefer angela
+
 1:37:57 - to not use it hmm steak go ahead if you want
+
 1:38:03 - yeah staking uh staking in a fist fight with
+
 1:38:10 - one of your kind is really not as easy as it sounds it is not but it is an option if we can restrain it and then
+
 1:38:15 - someone use it worth having it with us we take an arm each and then somebody takes the back
+
 1:38:21 - the okay you will angela be back up if extremely necessary
+
 1:38:27 - just watching our backs for any other things uh because i would prefer you not to get torn apart
+
 1:38:35 - i prefer that too but
+
 1:38:40 - i would prefer to keep the steak as much as possible because i am partial to it
+
 1:38:45 - um but if it becomes useful it becomes useful so
+
 1:38:53 - let me make a quick reference check for you sarah
+
 1:39:03 - do you have any like other weapons not really
+
 1:39:09 - i don't feel like biting the thing ew don't i mean it's proved effective but
+
 1:39:18 - i don't like the way the look of the way that guy would taste oh probably not it um
+
 1:39:25 - i believe you just haven't had good luck i think
+
 1:39:30 - you can do better if the opportunity presented itself uh story of my life
+
 1:39:37 - these new um things i'm going to attempt will take me a moment to configure
+
 1:39:43 - so i'll let you handle it for a moment before i join
+
 1:39:49 - are you going to be like vulnerable should we kind of no not particularly just
+
 1:39:58 - extending bones takes a little bit of time like what what what are you talking about
+
 1:40:05 - oh my god angela leans over and whispers to michael yeah it's a whole new thing i'll fill you in later and you haven't
+
 1:40:11 - do you still think that the knife thing was leaping to conclusions not at all oh mike why would i use it on my i'm confused as to what
+
 1:40:18 - you thought with the knife i don't wow okay
+
 1:40:24 - thanks for the warning never mind yeah it will be first wave you do your bone thing oh god
+
 1:40:30 - i know what this deal is huh i look forward to seeing more about nope
+
 1:40:36 - nope i'm gonna sit in silence for the rest of this drive i'm gonna keep scanning
+
 1:40:41 - well as michael drives following similar route as before
+
 1:40:48 - weaving in and out of the underpasses that thread through the streets of the south
+
 1:40:55 - bronx you can't use it on absolutely everyone
+
 1:41:04 - of course there are too many people on the sidewalks and the bars
+
 1:41:10 - tagging driving but if you limit it to just those
+
 1:41:17 - individuals who you see through the windows in the vicinity of the underpasses
+
 1:41:23 - might be more efficient so we're gonna do this a little differently
+
 1:41:29 - three turns it out so let's make your dice pool and it is resolve
+
 1:41:36 - plus your animalism three first make sure your pool has your hunger dye in it correct
+
 1:41:50 - three successes three successes wow that's your first roll of three
+
 1:41:55 - successes make two more rolls
+
 1:42:04 - no successes zero successes on the second roll
+
 1:42:12 - four three successes and three on the third
+
 1:42:20 - so you hunt
+
 1:42:26 - you know roughly where to look since you've seen it once in a place
+
 1:42:33 - like this and other people have as well
+
 1:42:40 - you drive through the night the later it gets
+
 1:42:45 - the fewer people there are there's never no people not in new york city
+
 1:42:51 - but closer you get to the middle of the night in the early hours
+
 1:42:58 - the fewer there are
+
 1:43:07 - what tips you off serif what tips you off is
+
 1:43:15 - a flare of light that's there and not there to figure
+
 1:43:21 - the true land on with your preternatural gaze
+
 1:43:27 - simply is different from everybody else that you've looked at so far
+
 1:43:33 - it's definitely a kindred you've used this power before to determine
+
 1:43:39 - levels of hostility but this one is overflowing
+
 1:43:46 - with rage with anger with absolute pure hostility to
+
 1:43:53 - everything around it it's a figure that's half striding
+
 1:43:58 - half loping along in the shadows of an expressway overpass
+
 1:44:05 - need the major deegan not too far i should say right under the major deegan not too far
+
 1:44:11 - from a particular condominium project
+
 1:44:17 - where you've spent some time recently okay i think we found it it's following
+
 1:44:24 - someone okay you're not sure
+
 1:44:29 - that the person it's following knows they're being followed
+
 1:44:36 - um how far are they away well as you pass by looking out the window
+
 1:44:43 - just a few feet away okay i'd like to cast chemistry
+
 1:44:49 - and i'd like to tell them to to turn around interesting and run
+
 1:44:55 - you're driving by you have to make a very quick decision michael doesn't know it's there no one
+
 1:45:01 - said anything so he's not slowing down and you are trying to create an illusion
+
 1:45:08 - that will get the attention of this person and hopefully alert them to their danger
+
 1:45:14 - i'd like to i'd like to also alert michael at the same time yes what do you want to tell him i'd say um you know i
+
 1:45:21 - point in the direction that the person that it's following is and michael that way and then at the same time i try to
+
 1:45:27 - cast chemistry all right make a rouse check first
+
 1:45:35 - i get hungrier well now we're getting down to it my
+
 1:45:42 - girl now we're getting down to the bone someone's looking for you
+
 1:45:48 - hmm for me the only thing that i'm looking for
+
 1:45:56 - is you to kill get out there and give me something good
+
 1:46:02 - to drink for once we might almost be on the same page
+
 1:46:08 - wow progress so
+
 1:46:13 - what do you want to do what illusion do you want to make that's fast because you've only got seconds
+
 1:46:20 - even as michael is slowing down and looking for a place to turn in a way that doesn't get you all hit by traffic
+
 1:46:26 - i like to create some kind of like street sign that just says you're in danger run
+
 1:46:32 - you're in danger run yeah i think you'll have to reduce the complexity of it danger run how about just run run great
+
 1:46:42 - interesting love the collaborative process all right your role is manipulation and
+
 1:46:48 - obfuscate okay
+
 1:47:00 - one success three success no four success four successes well
+
 1:47:11 - the person stops looks around bewildered checks again to see if what they saw was
+
 1:47:18 - real and start sprinting nice up the street away
+
 1:47:24 - from the underpass the thing the creature
+
 1:47:30 - shambles quickly after it okay we gotta go well i'm looking what do you want to do sir let's get out of
+
 1:47:36 - the car yeah um did you see it i saw it it's chasing someone michael finally finds a place to to pull over yes stop
+
 1:47:42 - as soon as possible angela's already out i'd like to be soaring leap
+
 1:47:48 - soaring leap so you're going to use uh potent to catch up to it
+
 1:47:56 - do i need to make a fast check no okay no there's no there's no cost to using soaring leaf but you are
+
 1:48:03 - immediately leaping and bounding across the road somebody's horn blares
+
 1:48:10 - [Music] but you make it across safely to the other side where you saw the creature
+
 1:48:16 - are you pursuing yeah let's see what everyone else is doing now that michael has found a place to
+
 1:48:22 - pull the car over where you won't likely get struck again
+
 1:48:27 - um isaac isaac is going to jump out of the car
+
 1:48:32 - um actually isaac is going to wait a minute and begin working on something
+
 1:48:38 - hmm what's your intention here my intention is to uh
+
 1:48:45 - activate my weaponry uh in a specific form uh to be as
+
 1:48:51 - the least masquerade violating as it could be interesting you're not well practiced at this no yet um make a uh roll your
+
 1:48:58 - resolve and protean will do
+
 1:49:08 - [Music]
+
 1:49:14 - five successes five successes okay you are
+
 1:49:20 - hands yes what i want to do is draw basically
+
 1:49:26 - draw the bone from here to make sort of like a blade come up and around the tips of my fingers to keep a
+
 1:49:32 - similar shape that a hand would have would just be bladed around here
+
 1:49:38 - so you are creating yes sculpting quickly yeah it takes me a turn osseous
+
 1:49:44 - blade along the edge of your forearm extending to the tip of your finger
+
 1:49:52 - and those of you in the car who see this behold something
+
 1:49:58 - that might be experienced in a horror movie he's actually extruding the bones
+
 1:50:04 - of his arms to create a bladed weapon that's fused to his forearms
+
 1:50:12 - you good yeah i'm great it's a good look all right go go go go go go go go fuego
+
 1:50:19 - no one's supposed to wait for me okay sorry i got lost in the moment that's distracting i jump out of the car and
+
 1:50:25 - i'm sprinting and uh the moment we hit an area where there are fewer people and
+
 1:50:31 - we have a bit of room uh i want to bite the inside of my own arm to bring a
+
 1:50:36 - little blood out to bring him out ah to use his bait yeah someone's got to
+
 1:50:41 - be it someone's got to be where's your pistol oh oh my i keep it tightly tucked it's on my hip
+
 1:50:48 - on your hip ray knowing what kind of a vent this was going to be
+
 1:50:55 - and the fact that you usually don't wear your suit jacket in the car anyway because it gets wrinkled when you sit on
+
 1:51:00 - it uh i'm ready to run you're ready to run and as soon as uh i'm in an area that's not
+
 1:51:07 - too crowded i'm gonna rouse the blood to run a little faster
+
 1:51:14 - rouse the blood make a rouse check hungrier
+
 1:51:22 - starting strong you don't know why these
+
 1:51:27 - kindred that you associate with talk about voices in their heads it's it's never a voice never heard one it's
+
 1:51:33 - just hungry so breaking the traffic getting across the
+
 1:51:39 - road running redoubling your efforts trying to move faster
+
 1:51:45 - make a strength and athletics check please strength and athletics
+
 1:51:58 - zero successes no successes at all starting off strong
+
 1:52:05 - this is this is how my dice roll [Music] you're basically running no faster than
+
 1:52:10 - fuego at this time but it's not that far ahead
+
 1:52:16 - but sarah's going to get there first because she's called upon her supernatural strength to
+
 1:52:22 - close the distance very very quickly now the white
+
 1:52:28 - your quarry has reached shadows of another
+
 1:52:34 - underpass so you've kept your eyes on it following
+
 1:52:41 - the supernatural emanations of hunger and hatred
+
 1:52:48 - up the street people get out of your way hey watch it move it start what are you doing hey
+
 1:52:53 - slow down underpass though
+
 1:52:59 - no one lingers there no one likes to walk in the shadows
+
 1:53:05 - there's not much under here deep recesses of course
+
 1:53:12 - a lot of shadows dripping concrete
+
 1:53:22 - a few empty trash cans sometimes people build fires in those things
+
 1:53:30 - pieces of timber rebar a lot of trash down here
+
 1:53:37 - pieces of wood for various sizes any of them sharp
+
 1:53:42 - they could be made sharp pretty quickly okay if you broke some but at the moment
+
 1:53:48 - until your associates catch up to you it's just you and the white
+
 1:53:54 - it's given up on catching it sprinting prey and instead
+
 1:54:00 - as you approach and it hears your footsteps turns to look at you
+
 1:54:07 - there's just nothing in its eyes no individuality no emotion except
+
 1:54:15 - the need to eat i take the knife out
+
 1:54:24 - are you planning to attack what's it doing
+
 1:54:29 - it's waiting to rip your throat out then i attack okay
+
 1:54:35 - ready yeah all right you are uh dexterity and melee for you
+
 1:54:42 - yeah yep
+
 1:54:50 - two successes two successes it has absolutely no finesse
+
 1:54:56 - at all it merely leaps with its hands fangs bared
+
 1:55:04 - it's got a lot of dice [Music] a lot of dice but not so many successes
+
 1:55:11 - let's see okay it's margin is three
+
 1:55:16 - so it leaps at you and unfortunately your knife doesn't
+
 1:55:23 - find its target it finds its target however and simply backhands you again
+
 1:55:29 - smashing you to the ground it's only superficial damage
+
 1:55:35 - it's three and you have it okay
+
 1:55:44 - i'm gonna get up and charge at it again one more turn before the next of your associates gets here
+
 1:55:58 - one success six successes [Music] one moment it's in front of you
+
 1:56:06 - your knife finds nothing but air the next moment it's behind you you can feel
+
 1:56:12 - its grip around your arms you can feel the teeth ripping through
+
 1:56:19 - your leather jacket tearing into the flesh underneath
+
 1:56:26 - three points of damage oh wait you're wearing a leather jacket
+
 1:56:33 - aren't you yeah now these are teeth these
+
 1:56:38 - are fangs these are the natural weapons of another kindred the damage is two
+
 1:56:46 - but it's aggravated it's incredibly painful there's none of
+
 1:56:51 - the pleasure the bliss of the ordinary kiss there's just ripping and tearing and
+
 1:56:56 - awful pain now for you sarah that is a significant injury
+
 1:57:10 - isaac yes blades yes as you approach the scene
+
 1:57:17 - racing forward you can see the white has grappled with serif and is busily trying
+
 1:57:25 - to devour her it has no knowledge that you are there it's too
+
 1:57:30 - busy trying to gulp down her blood and flesh okay so uh isaac runs up behind it
+
 1:57:37 - immediately taking both the sides of his forearms and just slamming them down into the neck
+
 1:57:42 - and like a scissoring motion right on the neck of the creature disgusting but perhaps effective
+
 1:57:49 - so strengthen brawl strength and bra
+
 1:58:04 - four successes forces successes the bone blades slam home
+
 1:58:11 - now these count as feral weapons yes they count as uh unhaved superficial damage
+
 1:58:16 - plus two so the incoming damage is not cut in half well now you have its attention
+
 1:58:23 - it ceases to try to chow down on your associate
+
 1:58:28 - and screams enrage anyone who is on the sidewalk nearby is
+
 1:58:35 - now moving in very different directions to get away from this horrible sound you must learn not to run ahead i'm sorry
+
 1:58:44 - rey and fuego and angela all reach the scene at the same time
+
 1:58:50 - angela she has her gun out but she doesn't have a clear shot without hitting
+
 1:58:56 - either isaac or seraph
+
 1:59:02 - uh yeah i think she's just raising her head from kind of ripping a little hole into her forearm
+
 1:59:08 - and is like and smears the blood i need his attention and i need to show this way
+
 1:59:14 - you are willing the blood to the surface yeah trying to get it to pay attention to you are you
+
 1:59:20 - spattering it around are you waving into the air are you uh i think i hate to wear it up my arm and then like try to
+
 1:59:25 - shake off a few drops in front of me make a rouse check
+
 1:59:32 - i'm okay not hungry do not get hungrier
+
 1:59:37 - with a roar the creature's head snaps around
+
 1:59:42 - it's struggling with isaac at the moment but its eyes are on you now
+
 1:59:48 - it champs its teeth together it's actually lacerating its lips with its own fangs
+
 1:59:55 - trying to reach you like a shark trying to eat a diver through a safety cage
+
 2:00:02 - at the moment oh sorry ray i'm gonna jump in and try and help isaac
+
 2:00:09 - hold it can i try to grapple i know what yeah i know what fuego's trying to do
+
 2:00:15 - so i'm almost grabbing it by the neck and forcing it to look fuego's direction
+
 2:00:21 - strength and brawl uh
+
 2:00:28 - [Music]
+
 2:00:34 - three successors one two three four five
+
 2:00:41 - successes you just can't get a grip on it it shrugs you off and you can feel the
+
 2:00:48 - frighteningly strong muscles of its undead flesh tense and flinch you off
+
 2:00:54 - you're gonna have to do this together angela keeps maneuvering around looking for a clear shot finding one she takes
+
 2:01:01 - it
+
 2:01:08 - above the sounds of the traffic the report of the pistol rings out
+
 2:01:14 - every shot finds its target
+
 2:01:19 - doesn't even stop moving it's trying to twist itself around fuego it's trying to get past isaac and those
+
 2:01:27 - spurs that are stuck in its back to eat your face off
+
 2:01:34 - rude so serif yeah what would you like to do um if it's if
+
 2:01:41 - it's distracted can i take it an attack of opportunity and try to an attack of opportunity trying to
+
 2:01:49 - in yeah duck in quickly while it's being distracted and while it's being held
+
 2:01:55 - absolutely dexterity and melee would you like to call upon the power of your blood to increase your capabilities yes
+
 2:02:02 - i would make a rouse check i get hungry ah yes finally the thrill of the chase
+
 2:02:09 - the taste of the hunt take its blood drink its power i'm i'm barely keeping it together right now
+
 2:02:15 - i've got other things i gotta focus on details details it's a pool of five correct it's good but you you search so
+
 2:02:22 - you have two dice you add two dice because of the uh the blood surface however
+
 2:02:29 - three successes three successes okay finally you have the satisfaction of
+
 2:02:35 - scoring a direct hit on this thing the blade stabs through bone cartilage and finds
+
 2:02:42 - something it grunts in pain can't decide
+
 2:02:48 - who to kill you know you've got it surrounded each of you
+
 2:02:55 - making your way in a circle in the shadows of the underpass around
+
 2:03:00 - this thing two of you are in close combat one has been shrugged off and you fuego
+
 2:03:08 - are still trying to distract it so fuego and rey
+
 2:03:13 - what are we doing i'm annoyed by this
+
 2:03:22 - i'm gonna go ahead and jump back in there and make sure that if everything goes south this thing can't
+
 2:03:27 - run away so how do you intend to do that i'm going to activate prowess
+
 2:03:33 - so i can do a little bit more damage that's a rouse check to you
+
 2:03:39 - success on the rouse check do not get hungrier and
+
 2:03:46 - i'm going to come in and kind of sliding tackle this thing's knees and see if i can break a knee you
+
 2:03:52 - can try to take it out make sure it can't run away easily okay that's how it got away last time
+
 2:03:59 - that's right go ahead and make the strength and bra actually let's make it strengthen
+
 2:04:04 - athletics strengthen athletics
+
 2:04:11 - i don't have surge on this one oh [ __ ] i could though oh could i not yeah do it
+
 2:04:18 - you could certainly tempt fate and make another rouse check let's see what happens success
+
 2:04:24 - fate is kind add two extra dice to the pool
+
 2:04:32 - it all doesn't mean a thing if i roll only you got this
+
 2:04:37 - three successes three successes
+
 2:04:50 - messy critical let's do it however the situation is
+
 2:04:56 - unusual there are several combatants one sticking a knife into it one trying
+
 2:05:02 - to shish kabob it with bone spear spurs growing from his arms
+
 2:05:07 - the smell of blood waving in the night air maddening it even further making it even less
+
 2:05:14 - aware of itself than it usually is bullets and now
+
 2:05:19 - this you make the sliding tackle
+
 2:05:25 - twisting yourself in and under it trying to bring your full weight and the force of your momentum to bear and you are
+
 2:05:31 - successful up to a point you hear something give way step in one of its
+
 2:05:37 - legs and it does go down those of you who are standing around it
+
 2:05:42 - will be able to attack it without it being able to fight back from its prone position but in doing so
+
 2:05:48 - it's rolled over and pinned you underneath it and is busy pressing its claws
+
 2:05:53 - into your neck and your face the difference the margin
+
 2:06:00 - see you had three successes i had three successes you had three successes so and then there's extra
+
 2:06:06 - damage for the prowess the messi critical for a creature like the white that no
+
 2:06:12 - longer has any serious attachment to its humanity
+
 2:06:26 - its beast lashes out and it does something
+
 2:06:32 - you haven't seen before its fangs
+
 2:06:38 - elongate they grow almost serpentine
+
 2:06:44 - curving dagger-like as they reach for your face
+
 2:06:51 - they puncture your cheek and under your chin and chew together
+
 2:06:57 - for two points of aggravated damage it's extraordinarily painful and i must ask
+
 2:07:02 - you to roll your unspent willpower oh unspent willpower
+
 2:07:15 - three successes three successes
+
 2:07:23 - the provocation is significant
+
 2:07:34 - you barely maintain control of yourself you can feel the creature inside you urging you to
+
 2:07:40 - just lose it to return bite for bite claw for claw
+
 2:07:45 - misery for misery and yet you manage to stay
+
 2:07:52 - yourself i'm trying real hard not to kill this thing
+
 2:08:01 - uh she just fully screams uh and i want to rush in and i want to pull out the
+
 2:08:07 - maglite flip it to the like blunt force end and i'm gonna try to knock its teeth out
+
 2:08:14 - brawl yeah and strength can i blood surge
+
 2:08:20 - roll it you don't get hungrier add two dice to
+
 2:08:26 - your roll but make sure to include your hunger dice
+
 2:08:40 - zero successes no successes what face came up on the blood dyes on
+
 2:08:46 - the hunger dice uh nothing nothing at all hmm
+
 2:08:51 - okay pistol's still in your holster you've got the blending of the flashlight trying to hit it but it's
+
 2:08:58 - just not getting anywhere so last round
+
 2:09:05 - isaac so just to be clear it is face down towards the ground on
+
 2:09:11 - top of rey that's right anything you stab through it may actually go through it
+
 2:09:18 - okay i'm gonna
+
 2:09:27 - am i not i'm gonna stake it so you're going to
+
 2:09:32 - pull out that from behind and back in my belt cross that you took
+
 2:09:38 - from annabelle but that is now yours is that right well
+
 2:09:44 - won't this be very interesting so
+
 2:09:53 - it's a called shot it's at -2
+
 2:09:59 - and you've got to do at least five damage great to get through to the heart okay
+
 2:10:04 - make the roll is it dexa melee or it's a melee weapon so yes it is yes
+
 2:10:09 - i will surge make a roush check i don't get hungrier
+
 2:10:14 - you do not get hungrier
+
 2:10:32 - four successes four successes i can't
+
 2:10:37 - unfortunately get any more than that five successes are required to smash
+
 2:10:42 - through the rib cage into the right place you drive the stake in it does damage the creature
+
 2:10:50 - it shows evidence of being hurt but unfortunately no
+
 2:10:55 - so close to a serif can i take the back end of the knife and and hammer it in
+
 2:11:01 - further so it gets closer to the heart yes okay i'd like to do that please and
+
 2:11:08 - as you're doing this the thing is going to roll over and try to injure whoever is attacking it okay
+
 2:11:18 - let's make it strength and brawl okay uh can i surge you have already surged so the remains with you for the scene okay
+
 2:11:24 - so a pool of seven
+
 2:11:32 - you can feel it tensing beneath you and above you ray it's getting ready to leap it wants out of
+
 2:11:39 - here okay we've got enough two successes and a bestial failure on a hunger day so
+
 2:11:46 - it's just too successful there's just two successes
+
 2:11:51 - i would like to do that i would like to burn a will power you can absolutely spend a point of willpower take
+
 2:11:56 - superficial willpower damage and re-roll up to three failed dice three fill dice
+
 2:12:07 - there we go uh four so that's six so it's six total yes
+
 2:12:14 - it also has six but the tie goes to the active yeah
+
 2:12:19 - so using john wick of your weapon yeah you smash the stake
+
 2:12:26 - in even further before it can spin around
+
 2:12:32 - and bite you the effect is instantaneous
+
 2:12:37 - its limbs lose all volition it simply freezes in place
+
 2:12:44 - and collapses face down on the pavement we're not done okay it's not dead what
+
 2:12:51 - do you mean it's paralyzed that's what happens when you stake something it gets paralyzed as soon as
+
 2:12:56 - the snake comes out it will come back it'll reanimate so we have to burn it or this and don't
+
 2:13:04 - don't what what spitting through blood oh my on my face
+
 2:13:12 - don't kill it why
+
 2:13:18 - i need this thing why why you can't have it angela
+
 2:13:24 - approaches and says look sir i'm sure this is all very important but we are going to attract people here
+
 2:13:31 - don't have time i was asked to get proof that this existed
+
 2:13:37 - take a picture for who if you sir
+
 2:13:50 - dominate power in the middle of this heated conversation
+
 2:13:57 - below the overpass traffic hurtling by in either direction
+
 2:14:03 - unswayable full new york knight oh okay so uh look manipulation and dominate
+
 2:14:09 - unswayable mind will give you a bonus on your resistance ray
+
 2:14:15 - your resist oh let's rake the rouse check first margo for mesmerism oh sweet
+
 2:14:21 - i get hungrier well
+
 2:14:27 - who would have thought that you would be so devious
+
 2:14:33 - i approve but i think you should in fact drink his blood instead
+
 2:14:38 - it will be faster and it will be much more satisfying for me
+
 2:14:44 - you know you've wanted to taste him you know you've longed
+
 2:14:50 - just for a little taste of him
+
 2:14:55 - your role is manipulation and dominate ray your role is intelligence and
+
 2:15:00 - resolve uh do i still have my search from earlier your search was for oh it's for a
+
 2:15:07 - different thing for a completely different attribute can i search for this yes you can tempt fate
+
 2:15:12 - one more time can i take a picture of the white while this is happening on my phone with your phone yes you can do
+
 2:15:17 - whatever you like with its collapsed inert staked body clique i get hungrier
+
 2:15:24 - how many hunger is that for you three house ah you're wasting my time
+
 2:15:30 - just drink him he wants it as much as you do
+
 2:15:36 - how many successes did you get on the roll and ray what is your result
+
 2:15:42 - let's compare two three four five six
+
 2:15:48 - six successes this is the biggest dice pool i have rolled to date
+
 2:15:55 - nine dice bestial failure
+
 2:16:04 - you have the option uh i think i'm gonna no bending willpower and re-rolling
+
 2:16:10 - up to three three oh okay
+
 2:16:15 - take a point of superficial willpower damage oh sure yeah [Applause]
+
 2:16:20 - one success oh my god well so
+
 2:16:26 - there's good news and there's bad news the good news is you didn't suffer a bestial failure
+
 2:16:34 - and try to murder one of your associates the bad news
+
 2:16:39 - is that you're mesmerized what do you say remember mesmerism
+
 2:16:46 - short but thorough command yeah explain
+
 2:16:53 - now i need this to prove to the camarilla that i'm worth it to them
+
 2:17:00 - do whatever you were about to do isaac great
+
 2:17:06 - now isaac just starts thawing at the neck of the white
+
 2:17:11 - it is staked it is helpless for all intents and purposes it is incorporate cannot defend itself or prevent you from
+
 2:17:18 - doing what you are doing and in a moment
+
 2:17:24 - you've taken its head away from its neck and the change in its body
+
 2:17:30 - is rapid it begins to melt no no no no no no decompose
+
 2:17:39 - to sink in upon itself to deteriorate before your eyes
+
 2:17:47 - whatever it was whoever it was wasn't old enough to become nothing but
+
 2:17:53 - ash like the legends say what you've got is a kind of a
+
 2:17:58 - mostly decomposed greasy bloody mess
+
 2:18:05 - seeping into the cold sidewalk under the bridge is the steak melting with it the steak remains completely at
+
 2:18:12 - the stake again great we need to get out of here sir we have got to go
+
 2:18:19 - right but it was worth it i'm trying to spray the picture yeah
+
 2:18:26 - try and scoop up what it's just left nothing recognizable maybe into a
+
 2:18:31 - straight plastic bag but unfortunately this is just bits and pieces some of it
+
 2:18:37 - might be recognizable as body parts but just [ __ ] shake that off my hands
+
 2:18:45 - i'm heading back towards the camera i walk away in disgust
+
 2:18:51 - michael brings the car to you with a screech of tires
+
 2:18:57 - just as people begin to head in your direction at a fast pace
+
 2:19:05 - is everybody getting in yeah you need to go margaret wait
+
 2:19:10 - can we [ __ ] yeah let's just get it get in the car we need to get out of here we can talk about this later everybody piles in
+
 2:19:17 - michael floors it pull away just as
+
 2:19:23 - a group of volunteer neighborhood watch
+
 2:19:28 - arrive on the scene they look surprised to find no one
+
 2:19:34 - here so where to sir
+
 2:19:41 - the long way back to my head to the haven yes sir i
+
 2:19:47 - sit there and i need to make three rounds checks to heal aggravated damage to put my hands back to normal yes you
+
 2:19:54 - do i need to make some rash checks to mend
+
 2:19:59 - i gain one point of hunger out of three so
+
 2:20:05 - it has come to this an interesting choice of
+
 2:20:11 - uncomfortable decisions yes it has
+
 2:20:16 - and you see his hands the bone slides back underneath the skin and the flesh forms back to have you no thirst
+
 2:20:24 - have you no desire to sup to sat us and i do but it's less important at this
+
 2:20:31 - particular moment i disagree
+
 2:20:39 - the way i've been rolling i'm gonna hold off on healing my will my aggravated damage very well but serif
+
 2:20:46 - i believe you said you wanted to heal now you've taken two
+
 2:20:51 - aggravated wounds two successes and a fail
+
 2:21:01 - you do heal one of the two wounds made by its disgusting filthy mouth
+
 2:21:10 - your jacket's never going to be the same and you do get hungrier
+
 2:21:16 - i couldn't be prouder of you i mean i'd rather have a little drink but
+
 2:21:23 - that was magnificent and so are you thank you
+
 2:21:30 - a little taste perhaps i'm sure mr isaac would oblige
+
 2:21:37 - later michael is driving
+
 2:21:42 - as instructed what the [ __ ]
+
 2:21:47 - the [ __ ] me what the [ __ ] with you guys what the [ __ ] with us
+
 2:21:52 - guys you wanted to join the camaria look
+
 2:22:00 - i'm really not in the mood to explain this right now but i guess we're going the long way home so why the [ __ ] not
+
 2:22:08 - yeah i needed that so that i didn't have
+
 2:22:13 - to tell them about the three of you why did you have to tell them anything because
+
 2:22:20 - because i was turned in manhattan and it's only because of the camarilla
+
 2:22:28 - because of getting away from the camarilla that i'm even alive at all i was turned in manhattan too
+
 2:22:34 - is that why your accent's gone yep i was wondering actually about that
+
 2:22:40 - because you sound really different yeah angela shoves your gun
+
 2:22:46 - right up against your chest shall i shoot him sir not yet
+
 2:22:52 - why did the camarilla even need to know about us and when have you been fraternizing with the camarilla ah since
+
 2:23:00 - day one day like all of you like all of me what i have never had
+
 2:23:06 - into any interaction with the no no you know what that's unfair you're weird
+
 2:23:12 - you are all part of the camarilla you are all part of
+
 2:23:20 - what's going on in manhattan whether you [ __ ] like it or not
+
 2:23:25 - you're sire what where's he from well tell us about
+
 2:23:30 - him tell us about his deal what's going on with him
+
 2:23:36 - as far as i know he's one of the cameras
+
 2:23:41 - and yours you want to tell us anything about him he's an artist from greece and he's a ravnos what are you insinuating
+
 2:23:49 - look my mom lives in manhattan she owns a gallery and she's a ghoul
+
 2:23:55 - my point is that you didn't have a choice in how you were brought into this world and i didn't have a choice either
+
 2:24:03 - i owe certain things to the camarilla i
+
 2:24:08 - need certain things from them and i am trying my damnedest not to offer you three up as
+
 2:24:15 - payment because i think some reason i like you guys if you
+
 2:24:21 - threaten him one more time we're gonna have a problem if you threaten her we will definitely have a problem
+
 2:24:26 - come is threatening anybody no you all i did your threat was ask you
+
 2:24:32 - not to do something and you very impolitely declined no it was not impolite because this is
+
 2:24:40 - a monster in our but also specifically my territory
+
 2:24:46 - so we all have an equal stake in what happens here and what we needed to do
+
 2:24:51 - was remove this from what we own and if you had let me [ __ ] talk
+
 2:24:57 - i would have told you that i was going to remove it how you were going to drive me oh maria it yes
+
 2:25:03 - how what are you going to put it in a hearse if that thing came out of it it would
+
 2:25:09 - attack you and kill you or the camarilla for that matter oh and you all of a sudden have a
+
 2:25:14 - problem with it attacking the camarilla it's a [ __ ] monster no are we all not
+
 2:25:20 - to that degree we're not unless i've mistaken who you are or what you're trying not to be
+
 2:25:27 - why didn't you tell us before because i was really hoping that i could
+
 2:25:34 - get through this without getting any of you involved well that doesn't appear to be the case does it yeah by your own
+
 2:25:42 - admission we're already involved and now the only option you seem to have
+
 2:25:48 - is to turn us in so what are you gonna do
+
 2:25:53 - well it comes down to a choice of who i like more right and your entire life that you
+
 2:25:59 - so desperately want to get back to is with them so go make your decision
+
 2:26:06 - tell them about my place tell them about sarah tell them about fuego and inform her sire where she is
+
 2:26:13 - and bring a bunch of heat down on all of us
+
 2:26:18 - unless you've already done that if i had already done that they'd be
+
 2:26:24 - here so right now all you have to worry about
+
 2:26:30 - is people tagging your suvs it's not all i have to worry about
+
 2:26:36 - that was your people no no i'm saying that's how small your problems are
+
 2:26:44 - you don't know anything about my problems because i kept them all away from all of
+
 2:26:50 - you and i didn't involve any of you in any of my problems and that's literally what i've been trying to do with my
+
 2:26:56 - problems but shocker not everyone is as good as handling [ __ ] as you are
+
 2:27:03 - you purposely is that all you needed to hear no then i'm just not as good at handling the nightly
+
 2:27:10 - goings-on as you are no that's literally not what he was saying at all you're projecting aggressively
+
 2:27:16 - you went to them you had that choice to not go to them and make a different
+
 2:27:21 - choice you didn't you went to see them because you want your old life back and you'll never get
+
 2:27:29 - it regardless of if you get your money so what's the point it's it's not
+
 2:27:37 - is it because you want to feel important it's not about money yes what are you kidding yes
+
 2:27:44 - so maybe i would like to feel important i would like to feel
+
 2:27:50 - something of my old life i would like to feel respected i would like
+
 2:27:57 - some goddamn respect you were important to us then making we respected you
+
 2:28:03 - and yet when i asked you to do something it took you all of five seconds
+
 2:28:09 - to not listen to me because you lied to us because you kept a secret from us
+
 2:28:15 - because and i'm not to say that i should have thrown myself in there but i got hurt
+
 2:28:21 - because of us i wanted to protect us i wanted to protect what we built here
+
 2:28:27 - you're not even speaking with the voice that you had a night ago and i and i
+
 2:28:32 - fully own that [ __ ] secrets great everyone's got [ __ ] to hide sure
+
 2:28:37 - and look i know what i did and i know my partner and i know that if i had to do it all again i'd do
+
 2:28:43 - it again but we can't get on him for holding something back no
+
 2:28:49 - but we can for threatening to turn us into the cam he didn't do that he just did a minute
+
 2:28:54 - ago he's i said that's my only option now and i'm really hoping that you will
+
 2:29:00 - help me find a solution great that doesn't involve that happy to do so i had one
+
 2:29:06 - and now it's gone right how furious are you
+
 2:29:13 - right now yeah yeah yeah it's bubbling up
+
 2:29:18 - [ __ ] take dice equal to your unspent willpower
+
 2:29:26 - just black dice
+
 2:29:32 - three successes it takes effort
+
 2:29:38 - one for each of them it takes effort but the beast stays in its cage and does
+
 2:29:45 - not come out to play despite the fact that you can feel it urging you
+
 2:29:51 - to solve this the easy way
+
 2:29:57 - so sir if i'm not going to shoot him
+
 2:30:02 - what do you want me to do shooting him would cause more problems than we are in at the moment if if he's
+
 2:30:09 - told the uh if you stole the camera where we are what [ __ ] part of he hasn't told them
+
 2:30:15 - but even the slightest hint that we exist and that we are important is a problem
+
 2:30:22 - and if he made any mistake in his dealings with them they will find us
+
 2:30:29 - and they will make our lives very hard because surprise specifically
+
 2:30:35 - the two of us are not welcome here you they want we
+
 2:30:41 - they'll kill she's been getting stuff from the cam in the [ __ ] jealousy i
+
 2:30:46 - just defended you what the [ __ ] she got a present from her sire she can't control where her sire came from
+
 2:30:53 - are you you're worried about the camarilla knowing where you are the yeah
+
 2:31:01 - mrs huego the gun is from your sire excuse me sir it is
+
 2:31:06 - how did you get it i was given to me by another kindred
+
 2:31:12 - how did they know where you'd be how did they know how to find you was
+
 2:31:17 - the club that night richter's club
+
 2:31:22 - i would say sir that there is an excellent possibility that they already know
+
 2:31:28 - and if anything that mr ray might have told them
+
 2:31:34 - could have been a test to see if he would tell the truth interesting it's a theory fair it could
+
 2:31:41 - be tested yes so let's
+
 2:31:46 - try and cool down here we're all working on things when you say
+
 2:31:52 - that michael uses the electronic window controls to lower the windows
+
 2:31:57 - in the minivan to let in the cold so right here just to recap and get things straight
+
 2:32:04 - you wanted to get some of your old stuff back some of your old life and decided
+
 2:32:10 - going to speak to the camarilla was the way to get this they then put you up to
+
 2:32:15 - the task of proving that this said white existed in this territory and you were to bring it to them so they could do god
+
 2:32:21 - knows what with it and we messed up your plans is that what happened
+
 2:32:26 - they wanted at least some shred of proof of my
+
 2:32:33 - loyalty or devotion or the fact that i wouldn't immediately screw them over and i got you that
+
 2:32:39 - you have a photo of it
+
 2:32:44 - i feel like i feel like that's not gonna be enough well maybe it is yeah you didn't even
+
 2:32:51 - check a shred that's a shred
+
 2:32:57 - look i want to give them i wanted to give them something more
+
 2:33:05 - than they ever wanted so that they didn't ever ask for more that's not how it works they will always ask for
+
 2:33:11 - everything from you all the time that's how the camarilla works
+
 2:33:18 - that's why i'm not there apart from that they don't want me that's why i didn't choose to try and make my way into the
+
 2:33:24 - camarilla because what we get here is not people bringing breathing down our necks all the time what you get
+
 2:33:31 - there is them constantly twisting because you are less than them and they will never
+
 2:33:37 - want a gangrel in their midst that's how it works
+
 2:33:43 - i'm surprised you didn't pick up on that yet how many other gang girls are in the
+
 2:33:48 - camarilla how many of you met none they are all independent or anarch that's how it works
+
 2:33:56 - you know somebody told me they didn't want to lasambra in the
+
 2:34:02 - camarilla either yeah but that seems to have changed in recent
+
 2:34:08 - nights because the sombra are not animals
+
 2:34:16 - i understand what it's like to come from a lot
+
 2:34:22 - but this is not the way you get it back
+
 2:34:30 - look i'm trying real hard
+
 2:34:35 - to keep my problems separate from your problems
+
 2:34:42 - but they're not and it's not as clean-cut as that
+
 2:34:47 - but if we're going to work together then you're gonna have to [ __ ] trust me no
+
 2:34:53 - you're going to have to also trust us by telling us things instead of hiding them yeah
+
 2:35:00 - that oh my god okay yeah let's do it how many let's be honest
+
 2:35:05 - let's let's just get it all out in the open let's start from square one what's on the third floor oh wow is this a
+
 2:35:12 - great idea sir my bedroom i wanted some privacy that's literally
+
 2:35:17 - it i invited you into my home i gave you all
+
 2:35:23 - rooms to stay when you needed them i wanted a space that was mine privately so i asked you not to go to the third
+
 2:35:30 - floor because also that is where i do my art and it's personal
+
 2:35:35 - well i think there's a simple way to prove that fine
+
 2:35:41 - if you want to so badly go to my room you can once and then you will never be welcome
+
 2:35:48 - in my house again because my house has rules and they are important to me
+
 2:35:55 - and i told you those because i asked for you to respect my rules in my house
+
 2:36:03 - and i don't know why it's so important
+
 2:36:09 - i've told you everything you asked me to tell you and then you got mad at me when you all [ __ ] up and made mistakes you
+
 2:36:17 - were angry with me because i didn't tell you enough because you didn't ask i asked you to
+
 2:36:23 - ask me if you had questions and you didn't you then made mistakes and told me why didn't you tell me
+
 2:36:29 - that's not my fault you're right yeah great no but as you pointed out tonight
+
 2:36:36 - with your very sire he has a habit of telling you things
+
 2:36:42 - after you needed to know them and it was to quote you frustrated you never had a teacher like that
+
 2:36:49 - no i did no and that's kind of why i'm like this great
+
 2:36:55 - you don't have to stay like this you've learned so much recently i
+
 2:37:00 - imagine from us about yourself about your beast about your place and all this
+
 2:37:07 - hasn't that changed you at all haven't we changed you at all
+
 2:37:13 - i am [Music] caring about people more than i ever
+
 2:37:20 - have there's something in you that cares i look i'm literally
+
 2:37:26 - here having a conversation trying to figure out how
+
 2:37:31 - to make this work with everyone this
+
 2:37:36 - while it may not look like it this is me trying i'll try to
+
 2:37:42 - i was born to a ghoul and a kindred i was raised to hold on to a [ __ ]
+
 2:37:47 - gallery and the minute that i started to try and live my life i was turned into a kindred
+
 2:37:53 - this is the first time in my entire life that i've known anyone who doesn't just want something from me and yeah i'm sure
+
 2:37:59 - you all want stuff from me but you seem to give a [ __ ] about me
+
 2:38:05 - about serif about this thing that i made to be free
+
 2:38:17 - if you care a little bit about that about us about me
+
 2:38:27 - you'll let us help you and not by just not doing anything
+
 2:38:36 - because that thing is a weapon when given to people like
+
 2:38:42 - the camarilla and that's why they wanted it because they could do something with it
+
 2:38:47 - they could hurt people with it and i bet they could they couldn't care less if it killed you because if it killed you it took away a
+
 2:38:55 - and you're always going to be a problem to them okay
+
 2:39:00 - and i'm and i'm not saying that for you specifically i mean we all are i am
+
 2:39:06 - she is you are as long as you're not part of them we're a problem
+
 2:39:11 - and so you either you did a thing that would either do them a favor would just bring them a new weapon or you'd get yourself killed
+
 2:39:18 - which also did them a favor so you don't have to be used by them
+
 2:39:24 - we're not using you
+
 2:39:29 - look i'm not looking to go there to be a lap dog
+
 2:39:36 - i'm not even looking to go to the camarilla i just want to literally not have stakes at my
+
 2:39:43 - throat when i step into manhattan what do you mean i can't go like
+
 2:39:49 - literally i can't go into manhattan
+
 2:39:56 - any one of them sees me in manhattan and
+
 2:40:05 - it's not likely to end well i get away with it
+
 2:40:10 - maybe once on good graces and the fact that i had
+
 2:40:15 - anything to offer as collateral and now the one thing that i had that i didn't care about
+
 2:40:28 - is gone whatever they said
+
 2:40:33 - was gonna happen to us we will not let that happen well no to the best of our ability the
+
 2:40:40 - best of our abilities we fought that thing and we won yeah it was messy
+
 2:40:46 - what isn't but we we did better than last time
+
 2:40:52 - we didn't get hit by a car yeah but my face looked better last time
+
 2:40:58 - my shoulder did too yes isaac why are you so quiet
+
 2:41:04 - where i grew up people yell and they fight
+
 2:41:12 - and that's okay because you get somewhere at the end
+
 2:41:18 - and i don't have anything to yell about here we've talked before
+
 2:41:24 - either you're gonna trust us you're gonna trust me or you won't
+
 2:41:30 - i don't think i have anything to say to convince you
+
 2:41:35 - so sir i want you to try i'm sorry i don't mean to interrupt
+
 2:41:44 - mr ray i realize that i am only an employee but
+
 2:41:49 - from my perspective this is a tactical problem
+
 2:41:55 - and that's my area of expertise
+
 2:42:01 - it seems to me that
+
 2:42:06 - you could plan your way out of this
+
 2:42:11 - if this if my employer and your
+
 2:42:17 - friends associates no friends
+
 2:42:22 - want to i'm sure there's a way that you can get what you want
+
 2:42:31 - without giving them exactly what they want
+
 2:42:37 - just requires a little bit of thought and planning with other people involved
+
 2:42:43 - not just yourself that's the entire reason why we have this group other than to take care of
+
 2:42:50 - this neighborhood as it were is so that we all don't get picked off individually
+
 2:42:55 - because that's how you get to be an old decrepit
+
 2:43:01 - guy living on an island is that you have people
+
 2:43:07 - who make it so you don't die and that's what we have is us
+
 2:43:14 - that's why you don't run right at a white without us following up right behind you
+
 2:43:22 - do you know what happened to your sire's codery no i don't and it was either terrible
+
 2:43:29 - boring [Music] and that's pretty much the only two options
+
 2:43:35 - once you get to a specific age so far as i'm led to understand is you don't need them anymore and you drift apart when
+
 2:43:41 - your humanity starts as it will with every single one of us
+
 2:43:48 - when we get to be older but that's many many many years from now
+
 2:43:56 - so until then until we start hating each other for real because we don't have any humanity
+
 2:44:03 - left in any of us let's enjoy working together
+
 2:44:10 - for at least a little while and
+
 2:44:16 - not throwing each other under the bus
+
 2:44:22 - sarah if you receive a text message it's from francis francis
+
 2:44:29 - what does it say spray date question mark
+
 2:44:35 - soon period descend smiley face
+
 2:44:40 - red heart oh no
+
 2:44:46 - smiley face that's it
+
 2:44:55 - so what's it gonna be four kindred
+
 2:45:01 - racing around the bronx and now driving the long way home
+
 2:45:09 - ray what's it going to be
+
 2:45:19 - it's not a decision for tonight well then this is indeed
+
 2:45:27 - the best place to end this vampire story for now
+
 2:45:37 - [Music]
+
 2:45:44 - you
