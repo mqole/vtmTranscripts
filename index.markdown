@@ -8,9 +8,9 @@ nav_exclude: true
 This page is under construction.
 
 <span class="fs-8">
-[Season 1](https://mqole.github.io/vtmTranscripts/s1-index/){: .btn }
+  <a href="{{ "/s1-index/" | prepend: site.baseurl }}">Season 1</a>{: .btn }
 </span>
 
 <span class="fs-8">
-[Club Auspex](https://mqole.github.io/vtmTranscripts/ca-index/){: .btn }
+  <a href="{{ "/ca-index/" | prepend: site.baseurl }}">Club Auspex</a>{: .btn }
 </span>
