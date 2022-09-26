@@ -1,0 +1,1139 @@
+---
+layout: default
+title: S1E2
+parent: Season 1
+nav_order: 2 <!--- Number 1 should always be the parent page --->
+---
+
+# Season 1 Episode 2 - Rumor of War
+
+### WIP- current captions directly ripped from youtube.
+
+0:01 - hello good evening and welcome to our vampire the masquerade chronicle new york
+0:08 - by night tonight we continue with our story of
+0:14 - four fledgling vampires in the bronx with season one episode two
+0:21 - rumor of war not ominous at all is it
+0:27 - let's meet our ominous vampires hello i'm alexander ward and i play
+0:33 - isaac brooks azamizi of particular politeness
+0:38 - hello i'm mayana baran i'm playing seraph of clan ravnos hi i'm mabria eingar playing a fuego
+0:46 - walker a little baby ventro and i'm joey russell i'm playing ray the
+0:51 - gangrel welcome vampires as we all know
+0:57 - this is a horror story so it includes and incorporates some mature and dark themes and content
+1:04 - you will find this episode's specific content warnings along with the streaming information on this platform
+1:10 - and channel it's a good point to remind us that we've completed a safety and consent
+1:17 - workshop with our session zero prior to this chronicle i know the players lines and veils and
+1:24 - those will be respected throughout our tale some of the family has noted this
+1:29 - already but it's worth calling out we do use the rule of cool when in doubt
+1:35 - story trumps all now let's thank a few special people
+1:42 - first of all dogmite games for our beautiful storyteller screen featuring
+1:47 - the new york skyline hello screen nice to get to know you
+1:52 - for our dice boxes with the cool clan symbols on them that you'll see a little bit later
+1:58 - we'd like to thank renegade game studios for making sure that we have all the vampire dice we need and books as well
+2:06 - we'd like to thank blackmagic design thank you blackmagic design for these
+2:11 - marvelous cameras you can even see the fangs and finally we want to thank
+2:18 - back blaze the cloud storage and data backup company
+2:23 - that preserves even the second inquisition's information from disaster and remember
+2:29 - yev is canon
+2:37 - we mentioned this a few moments ago the protagonists
+2:42 - of our story are fledgling vampires these are the kindred embraced within
+2:49 - the last few years the very lowest ranking on the list of kindred
+2:55 - the very bottom of the blood rich and bittersweet layer cake that is kindred
+3:01 - society they're not even neonates not yet
+3:07 - so as fledglings they must learn how to contain their beasts
+3:12 - how to navigate these nights and survive as kindred before they can worry about making uh
+3:19 - high status moves and political waves right well maybe
+3:25 - but fledglings are often under the nominal guidance of an older vampire
+3:30 - older kindred maybe an adoptive ward figure or a mentor or an actual sire
+3:37 - to show them the ropes and help them survive their first nights after the embrace
+3:43 - those without that advantage on the other hand or who are left abandoned by a sire
+3:51 - are sometimes illegal embraces in the camarilla court and more often than not
+3:56 - face the final death at the hands of the prince's enforcers
+4:01 - or they must find shelter among the anarch movement or try to survive solo
+4:10 - and all the while they have to reconcile what they were
+4:15 - with what they are now and this is maybe the biggest curse of existence at this bottom layer of the
+4:22 - cake we can imagine it right the broadest layer of the confection
+4:27 - it's holding up all the weight of the tears above it these vampires are this close to still
+4:35 - being human their um lives might have started two weeks ago or two years ago but
+4:42 - here their human life still lurks nearby as a reminder
+4:49 - of what they've lost and at this stage of their existence
+4:55 - and the bottom layer of the cake ignorance is not bliss
+5:02 - with this firmly in mind let's tell a vampire story
+5:20 - [Music]
+5:48 - [Music]
+5:57 - [Music]
+6:10 - [Music]
+6:23 - [Music]
+6:34 - where are we imagine it with us it's late in the evening in new york
+6:41 - city and we're down by the riverside again the cold dark east river that
+6:46 - slithers around the shore of the south bronx its surface
+6:51 - deceptively calm but hiding churning turmoil beneath
+6:58 - ready to drag an unwary swimmer down at the bottom the wind off the river is cold
+7:04 - kind of cold that slices through that winter coat
+7:09 - spring might be close but you would never know it tonight
+7:14 - now picture with us a car sleek sedan
+7:20 - pulling into the club parking lot crowded with dead things
+7:25 - they don't breathe they don't blink but they do think and move and they've just completed an errand
+7:32 - for richter the vampire crime boss who claims to run south bronx
+7:39 - it was a simple errand right jack on a lick who is behind in his rent
+7:46 - give him a message get a response report back but it's like so much else
+7:51 - that involves kindred simplicity went out the window almost immediately
+7:57 - instead it was a brief chaotic confrontation with mortals who evidently work for some
+8:04 - other kindred the discovery of many little bits of pieces of information that doesn't
+8:09 - really make sense yet own violence and blood
+8:15 - there was definitely blood now you've returned to where the night
+8:21 - began the cage richard's nightclub built in the shell of an old cement factory
+8:27 - that looms over the river shore and even from the car as you arrive it's easy to see that the party inside
+8:34 - is in full swing the parking lot is crowded with vehicles of every description people are congregating in
+8:39 - pairs and groups around the building talking smoking laughing texting flirting
+8:47 - some of them sway or nod to the base that the dj inside is pumping out and you can imagine the very
+8:52 - bricks of the building vibrating with it even from here
+8:58 - you have your disgusting trophy and plastic bag
+9:03 - you have the briefcase yes that you retrieve from the thugs
+9:10 - you have a bullet wound ow and a bullet
+9:16 - isaac your driver parks the car and a few minutes later you're standing in the parking lot the cage facing the club
+9:23 - you're back to the river what would you like to do
+9:29 - are you just going to leave that hole in you oh
+9:34 - i should probably patch that up huh it's up to you you're not going to die from it but it
+9:40 - is unsightly that's gross can i amend that please you can
+9:47 - absolutely mend it so you're not impaired at all right
+9:53 - no nothing at all so you can heal your dead flesh
+9:58 - make a rouse check uh failure
+10:07 - well the wound knits closed anyway
+10:13 - it's kind of a weird sensation to feel the skin regrow and sort of pull itself together
+10:18 - not unpleasant but very weird
+10:24 - have you ever been shot before you know i don't get out much no but you should get out more yeah
+10:32 - maybe time for a snack inside don't you think yes yes yes yes snacks several sacks
+10:39 - all the snacks my child i guess
+10:44 - time's wasting yeah
+10:51 - ah sorry i uh yeah i know no i haven't gotten shot before weird
+10:56 - strange yeah it's not a um
+11:02 - not a common feeling have you been shot yeah
+11:07 - okay in your line of work it's your line of work now too
+11:14 - that's a good point have you been shot i've gone through a few suits yeah
+11:22 - can i activate blush of life as i like you certainly can't get into the mood and to do that you must also rouse the
+11:28 - blood so let's make a rouse check i'm hungrier you're hungrier everyone's
+11:35 - matching me someone's hungry you hear voice
+11:41 - in the back of your head the voice you hear whenever the beast stirs inside you
+11:51 - make me proud don't make me regret it
+11:59 - make me proud take what you want
+12:07 - claim your crown or claim your grave
+12:14 - okay you guys want to go inside yeah i would like to get this over with you yes
+12:21 - yeah get it over with you approach the club the front doors
+12:27 - are wide open there's no velvet rope it's not that kind of club people just
+12:33 - come and go as they please passing through a lot of people as you
+12:39 - approach some of them turn to look at you some of them pay no attention whatsoever
+12:45 - club goers are dressed in all manner of attire some have gone for the very classic you know leather pants and not a
+12:52 - lot else and some of them are dressed in very dayglow colors more appropriate to a rave maybe
+12:59 - there's a lot of cigarette smoke and cigar smoke and clothes and other kind of smoke from other
+13:05 - substances and there are plenty of substances being traded back and forth illicitly
+13:12 - through outstretched hands the side door is still open as well the loading zone where you entered the last
+13:18 - time that the band uses and now that they're you can see there are posters plastered
+13:24 - near the front doors advertising tonight's band bronx cheer looks like a
+13:30 - trio of musicians but impossible to tell what kind of music that they might play from the poster
+13:42 - what you looking at oh i'm trying to figure out what music they probably make i'm thinking electrofunk i
+13:50 - wanna guess just because i think it's weird amazing yeah
+13:56 - serif i'm over here oh hello hey hi hey [ __ ] your life baby how you doing i'm
+14:02 - doing good oh my god oh wow i wasn't expecting to get recognized here you recognize these
+14:08 - mortals it's blue spam and quirks some of your tagger buddies from around the borough
+14:15 - uh they're dressed more like uh ravers than punkers tonight didn't take
+14:21 - you for the right crowd chosen some interesting hair colors that uh you're pretty sure are unhealthy for their
+14:26 - roots oh hey how's it going doing well did you do that at home
+14:32 - how can you like it how can you tell i can tell but um you might just want to make sure that you get somebody to look
+14:38 - at it tomorrow you look good thank you you look good yourself hey um
+14:44 - spam takes a backpack off her shoulder yeah shakes it you can hear the sound of paint cans rattling
+14:52 - yeah yeah yeah we're going to get this building um it's going be fantastic
+14:59 - i got a whole design ready for that that's big cement tower over there yeah that one right over there yeah
+15:06 - i really come on you know you wanna can i just wait and get just a teensy bit of
+15:13 - uh consent from the owner what i know the owner
+15:18 - who the hell are you i'm serif yeah okay but consent
+15:24 - well i'm trying to talk about i got i got in with some i got in with some problems
+15:31 - [Music] how you doing
+15:38 - check you out i take one look at her friends and just
+15:44 - look back at her and go this is gonna complicate things i know i
+15:49 - ah another night i would but i'm admit seriously i'm potentially flirting with
+15:55 - a sponsorship opportunity that sounds that sounds hot you know i don't want to mess it up yeah okay so i
+16:02 - mean wait a minute sponsor yeah this guy maybe richter the owner
+16:08 - oh he's not that bad huh okay well all right he's got it so all
+16:14 - right well suit yourself we're gonna be up there all right
+16:19 - just wait i'll meet you up there don't start without me don't well i mean no promises
+16:25 - but okay because it's you because you asked do you love you love you hold on hold on
+16:30 - hey hi to everybody oh hi sorry i'm spam this is blue uh quirk hey fuego fuego
+16:38 - can i use all on them you can certainly use awe aw is a um there's a passive ability you
+16:43 - don't need to target anyone it doesn't even require a rouse check you instantly become
+16:50 - the most magnetic version of yourself and all three of them just stare at you
+16:57 - spams looking at your hair and blues admiring your dress and quirk just sort
+17:02 - of walks up and gets in your personal space fun smells your perfume oh fun sup
+17:11 - um my friend said maybe to wait for her and i think that would just be an
+17:17 - amazing idea like what if we all got together later oh yeah are you going to come
+17:22 - she'll be i always do she's my new muse i thought that was a joke but i don't know if i got it anyway um
+17:30 - you guys are going to paint with us i would love to yeah see see those uh those uh the cement tower over there
+17:37 - yeah just use your imagination it could be beautiful incredible she's very imaginative okay
+17:43 - yeah all right so we'll just hang and um we'll wait for you yeah for you guys yeah good to meet you fuego oh
+17:51 - spicy i like it fuego i like that it's fun to say for way to go
+17:59 - my condolences all right [ __ ] off tie-dye yeah sorry about your attitude
+18:06 - oh you guys all right go before you get into anything you've got a car over here
+18:11 - anywhere sorry what has he got a car in the lot um no but i do oh
+18:18 - hey how's it going good how are you like your glasses thank you yeah hey all right so we'll go hang thank you
+18:28 - she smells nice i do smell that was really great sweet sorry i didn't want to like no i
+18:33 - appreciate it i appreciate it they can get a little rowdy sometimes yeah i like rowdy normally i like it but now that
+18:39 - exchange did not go unnoticed and some of the other mortals who were gathered around outside the club
+18:45 - paying attention to you wondering who you are that they singled you out and shouted your name
+18:53 - no one's taking a picture of you yet but it's only a matter of time we should probably get inside okay fine
+18:59 - yeah you want to head in yes okay hey maybe you take the suit jacket
+19:05 - off oh man i guess you know i'm just going to have to take a few things out of it
+19:11 - first yeah we can do that take your jacket off yep
+19:19 - there's a coat check or something i assume there's no bouncer you think there's a
+19:24 - coach well i assume that the guy in the leather pants and no shirt showed up with something on
+19:31 - to begin with no man this is what i'm wearing what god dammit
+19:36 - nice tie hey there you go nice tie
+19:42 - i know all right are we yeah are we straight
+19:48 - for richter or are we like do we go oh we could do a lap we could do a lab
+19:54 - we could it's i doubt we can get up to richter without him knowing we're here so we'll
+20:00 - once we're in there i'm sure he'll know we're there yeah okay oh people are moving in and out of the doors like hmm
+20:08 - like fishing schools upstream downstream in out swirling massive humanity immediately on
+20:15 - the inside of course is that big cavernous dance floor that used to be the central part of the factory and that
+20:21 - strange metal cage thing suspended precariously above the floor on chains that people
+20:28 - are now occupying very likely beyond the legal limit of what it could actually carry
+20:34 - it's swaying back and forth as they dance and climb around it like some sort of
+20:39 - weird piece of playground equipment and if somebody doesn't fall off that thing tonight you will be amazed
+20:47 - now the dj he's keeping the crowd warmed up with an eclectic mix of music
+20:53 - spotlights reds yellows blues built into these weird cylinders and it
+20:59 - takes you a moment to realize that they're attached to old cement mixers
+21:05 - are rotating around and the dj has chosen to put staccato machine gun sounds
+21:11 - into almost all of his mix it's a strange vibe
+21:17 - place is crowded though it does good business hmm
+21:24 - where to let's do a lap and look for consuela mm-hmm
+21:30 - uh i'm gonna listen out into the conversations uh
+21:35 - to see if we uh hear any mention of callahan
+21:40 - recent power shift okay
+21:46 - staying together or going your separate ways hmm i'll do a lot with you yeah of
+21:51 - course yeah who's got the plastic bag it's in my purse where the granola bar used to be
+21:58 - and the briefcase it's in my car with michael with michael got it
+22:07 - just let me make a note
+22:13 - okay most of the individuals in the club most
+22:18 - of these party goers are mortal so most of the conversation you pick up on at least for now is about how excited
+22:24 - people are to see bronx cheer during the final set of the night everybody's looking forward to it
+22:31 - and the conversation is primarily about mundane items you haven't heard anything
+22:36 - pertaining to kindred just yet but keep your ears open and that might change
+22:41 - start to make my way towards uh i know it's not directly accessible from
+22:47 - here but some of the doors that i know lead to the tanning room the uh fight club that
+22:54 - we won't talk about those kind of areas well you did get the grand tour earlier this evening so you
+23:02 - know in the general direction where those things are and you make your way over that way right mm-hmm
+23:10 - and also as soon as i'm no longer uh walking with fuego i
+23:17 - foolishly realize why why the hell did i take off my jacket [Laughter]
+23:26 - fuego seems to uh you know have that effect on she has that effect on a lot of people
+23:31 - so maybe it's not entirely your fault right
+23:40 - when you reach the stair landing that you know leads down
+23:46 - to the lower levels your path is blocked by air box
+23:52 - he's just coming up the stairs even on the stairs below you he's taller
+24:00 - he's still wearing his shirt that says stay relevant he nods at you
+24:07 - no good place to get a drink around here is there
+24:13 - well i can't very well order it this bar hmm
+24:20 - i feel sorry for you well you could make it easier just by
+24:26 - pointing me in the right direction unless of course you mean something else i have a feeling you do
+24:32 - you don't get it yet no but i'm sure someone's gonna take the
+24:38 - time to explain it to me in a long and boring fashion i doubt it
+24:45 - you're either going to get it or you don't it's just one loss after another for us
+24:50 - man sacrifice after sacrifice sure are you sure no one's gonna want to explain it
+24:56 - what about richter he likes the sound of his own voice you really like to interrupt people when they talk
+25:06 - i'm sorry continue with your well thought out monologue
+25:11 - no i think it'll be more fun for you to find out for yourself don't say i didn't try to help you you
+25:17 - can get a drink on the floor if you're careful downstairs if you're not
+25:25 - now get out of my way i'll let him walk by he passes you and goes
+25:31 - the upstair way out on the floor i'm going to be following them behind
+25:37 - just watching what they do mm-hmm now
+25:43 - fuego ah remains activated for the scene so until
+25:50 - you don't want it anymore you've got it and the mortals notice
+25:57 - you are the center of attention in every throng of people you pass through
+26:03 - everybody wants to know who she is tonight sorry were you trying to keep a low
+26:08 - profile because i'm not no okay cool uh i am keeping an eye out i just want
+26:15 - to spot the most attractive person here gender agnostic because i'm hungry
+26:21 - because you're hungry so you're on the hunt always this is a hunt
+26:26 - okay it doesn't take long some of their approaches are really
+26:32 - terrible but that isn't related to their attractiveness and the individual you choose
+26:40 - hard to say what gender they might be maybe whatever they feel like at the moment i'll love that for them
+26:47 - hey i'm gonna oh you're here too i'll be back in
+26:54 - 20 minutes okay okay bye
+26:59 - you want to get out of here do i want to get out of here yeah do you want to get out of here
+27:05 - oh i love answering your question with the question come on whoever they are
+27:12 - they're used to the attention they're confident practically strut with you
+27:19 - make it look good where are you uh hoping to go
+27:25 - uh i think i want to try to dance out this song with them
+27:31 - and then pull them to a secluded corner as secluded as it gets in a club
+27:37 - because i'm a very specific predator child privacy is useful
+27:44 - yeah when you're trying to stick to a diet it's not always easy is it yeah okay let
+27:50 - me all start off you dance out
+27:56 - start looking for a private secluded place meanwhile seraph and isaac
+28:02 - do you have a type yeah people who like me you that makes sense
+28:08 - i prefer to have them need something from me oh
+28:15 - that's interesting how do you tend to get people to owe you stuff
+28:20 - depends on the situation depends on who i'm talking to and where we are and what sort of dealings we have
+28:27 - um can you be less picky for tonight i don't have to do it that way i just like to do it
+28:33 - because i'm pretty hungry then do you want to share one
+28:40 - that's not really my thing but remember to be careful that we are not on our territory that's a good point
+28:46 - well we don't have any territory we don't and the reason that our friend fuego
+28:52 - was here in the first place is that she fed on someone in richter's terrace oh
+28:58 - man there's so many rules there are aren't there then maybe i'll wait probably a good idea
+29:04 - but if you were to pick one
+29:10 - i point to a rather
+29:15 - nervous looking man across the dance floor
+29:20 - who looks completely out of place and like he's drowning
+29:27 - and out of his element i go that he needs something yeah or do you think he got dragged here
+29:34 - i think he came here because he wanted to feel important or desired or something of
+29:41 - that effect maybe to boost his self-esteem and it has had the opposite effect and it
+29:47 - he now needs to be rescued oh i'm not going to do it but that's what
+29:54 - he needs hmm you're a very astute observer of people i watch a lot of people
+30:02 - it's at this point when two familiar individuals catch your eyes
+30:09 - over at the long bar with its incredibly high almost towering glass shelves
+30:15 - full of every possible kind of liquor imaginable
+30:21 - at one end of the bar staring straight at you isaac is lizzy
+30:27 - the kindred you met upstairs with richter she of the long talon-like claws
+30:34 - she's changed her wardrobe though and she's no longer wearing a tattered
+30:41 - dirty dior now she's wearing tattered dirty chanel
+30:47 - on the other end of the long bar consuela
+30:53 - she's engaged in a very long intense discussion with the bartender that you can't overhear from
+30:59 - where you are you're not sure if she's noticed you yet i think it would be hoover's dr consuela
+31:05 - when we have everybody with us so why don't we wait for a moment i think i'm going to go have a chat with lizzy
+31:10 - because it amuses me that she's so uncomfortable in my presence can i use cloak of shadows and eavesdrop
+31:16 - hmm tempting but cloak of shadows allows you to remain hidden
+31:22 - only if you remain completely still in the shadows so if you can maneuver away to where
+31:29 - they are find some shadow and stay inside it definitely you've got a shot at it
+31:36 - hold that thought ray unless by some miracle i catch lizzie
+31:43 - and consuela at the bar as well i think i'm headed downstairs
+31:49 - well from the stairway you know your way at least to the entrance to the corridor you remember what's down there
+31:56 - long hallways brick tunnels storage rooms lot of doors
+32:02 - the pit the tank salon under construction pit
+32:09 - check in on it yeah give it a look there's only one
+32:14 - person in there at the moment middle-aged man wearing workman's coveralls
+32:21 - a lot of tools and different pockets he's busy installing a guard railing around
+32:28 - the edge of the pit he's having a hard time with it because it's extremely heavy reinforced steel
+32:35 - obviously meant to make sure that people in the bleacher seats don't force their way into the fighting
+32:41 - he looks up as you approach okay
+32:47 - everything going well yeah uh something i can do for you no just
+32:53 - checking if everything's still on schedule here yeah we're gonna we're gonna be open uh next week i promise um
+33:00 - i'm sorry about the delays it it wasn't my fault i mean not freight shipping don't worry about it shipping is crazy
+33:06 - right now we understand just figure out how far back we were what do you think what do you think
+33:13 - does it look right i think it's exactly what we designed i don't know if that's exactly what we want what's gonna happen
+33:19 - in here i mean is this like mma stuff or what it's
+33:24 - more of an experimental thing um you know between you and me i don't have
+33:30 - total faith in it but uh we'll see how it works man are we gonna get paid
+33:35 - yeah absolutely again it's exactly what we asked for i just don't know if it's what we want
+33:42 - you know how it goes i mean people not really but well
+33:47 - you did what you were asked to do cool no no no you're all right
+33:55 - yeah a little hungry but uh oh hey i got like uh
+34:01 - i got like a choc cheese in my uh lunch pail no i think i'll actually uh it's
+34:08 - good grab something else that's from a place on 133rd
+34:14 - no i'm good have it your way more for me
+34:21 - uh and i'm just gonna take a kind of quick lap around here take a look at you know i'm sure there's kind of like is it
+34:27 - all general admission high stakes boxes kind of being built anywhere that uh richter
+34:35 - would have his uh kind of higher end uh friends sitting
+34:41 - in the arena you mean in the uh yeah in the surrounding area it's uh it's a lot more like uh it's a lot more like a
+34:47 - roman coliseum all open everybody on the same kind of bleacher seats except for the very very top the
+34:54 - highest tier four or five rows up there is a sort of a an area that's set aside
+34:59 - still open not enclosed but clearly meant for people who are set apart from the
+35:04 - crowd of fight goers i'll uh start to make a note of where
+35:10 - the entrance to that is i'm assuming there's a separate entrance from there is yes that
+35:15 - and then kind of see if i can backtrack to a uh fire exit
+35:21 - there and just keep a mental note of fire exit to box entrance what are you planning
+35:28 - ray i'm planning on knowing as much as i can about what is eventually going to happen here
+35:34 - are you expecting trouble it doesn't hurt to have information
+35:42 - meanwhile in a dark secluded room
+35:47 - on the main floor with a lockable door
+35:54 - fuego has a chance to satisfy her hunger
+36:00 - your partner is willing
+36:05 - how much of their blood do you take
+36:10 - while you're in their arms now you were a two-hunger is that right
+36:16 - yeah you can satisfy all the hunger you want you can
+36:23 - be full but as you know the only way
+36:28 - to completely sate your appetite is to take their life
+36:36 - but the choice is yours this is pretty secluded this is as secluded as it's going to get
+36:43 - in this building the door is locked it appears to be some sort of
+36:48 - maybe it was a green room at one time for the bands there's even a couch
+36:57 - and do i already have confirmation that they're they're from the bronx
+37:04 - they're from belmont up north by riverdale okay near arthur avenue
+37:10 - no i need to keep them around born and raised okay uh just one
+37:15 - just one just one so but i'm gonna use lingering kiss
+37:24 - it never gets old the bite the taste the delicious succulents of the blood
+37:32 - as it cascades over your fangs and onto your tongue and down your throat
+37:38 - it's the only thing that tastes good anymore it's liquid fire
+37:44 - spicy and warm for the first time tonight
+37:52 - you feel something other
+37:59 - than confusion and uncertainty there's a special taste
+38:06 - to their blood something that you haven't sampled before
+38:12 - that spice i mentioned it's like cinnamon paprika and red peppers all at once
+38:22 - fills you full of confidence and power
+38:29 - and you know that somehow instinctually
+38:34 - the next time that you want to appeal to the emotions of others
+38:40 - it's going to be good take away a hunger die please you are at
+38:46 - one you spared their life
+38:54 - when we are finished uh
+39:00 - fuego just leans into their ear what is your name
+39:08 - you can call me shy shy yeah it's with an e
+39:16 - okay what's your name what do i call you and how do i find you again that was
+39:22 - i know that was i know you are um
+39:28 - i can't i've never give me your phone and i go and like rifle through their clothes
+39:35 - i'll just find it and i'll put my number in there you'll put your number in
+39:42 - stretch out on the couch lingerously relaxing in the bliss of it
+39:48 - you are delightful you're gonna call me right you know i am i'm going to call you
+39:57 - don't be shy i see what you did there
+40:02 - kernin leaf at the bar
+40:10 - at the bar um i'm gonna go find somewhere dark and
+40:15 - i don't want to hear this conversation you want to overhear what they're saying and you want to do it surreptitiously so
+40:21 - that you're not noticed do i have that right correct well let's resolve that first it takes some maneuvering because of
+40:28 - course there are a lot of people here and you're not supposed to be behind the bar
+40:33 - but let's make the roll anyway now normally
+40:38 - you wouldn't have to do this but since you were trying in very very difficult circumstances
+40:45 - to accomplish something like this let's make the roll hmm
+40:51 - let's make it dexterity and stealth it's a pretty good pool for you but
+40:57 - because of the crowded conditions on all the eyes around you
+41:02 - i'm gonna take away two dice okay um
+41:08 - okay wait yes thank you okay
+41:16 - uh four uh two uh sorry two six six uh you had a
+41:23 - you know you had a you had a critical success yeah not a messy critical but a critical success yes
+41:30 - improbably against all the odds you choose the exact moment when
+41:35 - nobody is looking at that dark corner by the service door accessed downstairs
+41:41 - behind the bar you step into those shadows and you might as well not be there as
+41:49 - far as anyone else is concerned now you can't move from that spot
+41:54 - without breaking the obfuscate but as long as you stand in there and as long as
+42:00 - isaac and lizzie don't go anywhere else you'll be able to overhear what they say
+42:06 - as you approach isaac lizzie who is leaning against the bar
+42:12 - facing the dance floor tries to back up away from you but the bar's in the way so she can't
+42:17 - and so instead she just peers at you through her long stringy hair in fact she's only appearing at you
+42:23 - with one eye because the hair is covering the other half of her face lizzy was it
+42:32 - yes nice to see you again
+42:37 - isaac yes
+42:44 - how are you i'm fine we've uh
+42:52 - the place is much more lively than it was the last time we were earlier this evening but it's nice lively you like it
+43:00 - it's not generally where i hang out but it's nice i don't like it
+43:05 - why it's noisy it's hard to think it is that
+43:12 - what are you sorry
+43:17 - how can i help you oh she seems pleased with herself to have
+43:22 - remembered that good um i don't particularly need anything i just saw you at the bar and i
+43:30 - noticed that i make you a little uncomfortable
+43:36 - why i know what you are
+43:43 - that's fair i have no reason you shouldn't be uncomfortable i have no
+43:50 - reason to do anything and i don't particularly pose much of a danger so there shouldn't really be a
+43:56 - problem i don't believe you well
+44:02 - i remember the fiends the black hand the sword of cain
+44:08 - i remember what you did to this city
+44:14 - that wasn't me how do i know that
+44:19 - that happened a long time ago i've only been around for a small number of years
+44:25 - blood is blood you can't help it well what i want to know is
+44:34 - can you do the thing that's a vague question
+44:40 - i mean you are a smitsy
+44:47 - can you do the thing i'm going to say no
+44:54 - because i don't know what you're talking about and i
+45:01 - don't particularly believe i do anything abnormal
+45:07 - from what i've seen from other kindred around i pretty much do the same things so i'll say no
+45:14 - i can't do whatever it is you're referring to she seems relieved
+45:21 - then why are you here because your boss called me here
+45:26 - does your codery know what you are my codery knows very little about anything
+45:32 - if they are in fact my codery well if you weren't before you are now it would seem so
+45:40 - well now that we've cleared that up you have no reason to be uncomfortable anymore
+45:46 - she tries to sink into the bar behind her unsuccessfully
+45:52 - i see you and i see you i'll be watching
+45:59 - please do and have a good evening and i'll take my leave and go
+46:06 - with the purpose of finding uh fuego and rey knowing that seraph will catch up to me at some point
+46:12 - very well i'm gonna wait until she you know turns away and then i'm gonna
+46:19 - she turns her attention back to the dance floor gazing out uncomfortably over the
+46:25 - sea faces and moving bodies so at this point i'm also making my way
+46:30 - back up the stairs back up the stairs and out onto the dance floor yep okay that's so fun
+46:36 - thank you for letting me do that you're welcome what did you think about what she said
+46:43 - i think she's very old and a little confused
+46:49 - but i'm curious about what she thinks you can do that you don't think you can yeah i guess we'll see yeah if anything
+46:57 - happens in the future i don't think she's confused i think she sees the
+47:03 - world differently and isn't unsure how to
+47:11 - communicate it yeah she doesn't seem to have quite the way with words
+47:16 - no but we should find the others and we should go talk to consuela to finish this
+47:23 - evening's events i like that idea
+47:29 - ray eventually you spot your associates
+47:36 - on the dance floor sheriff and isaac okay
+47:42 - mike bent way over to them ah where'd you slink off to nothing i was just uh
+47:51 - no we'll talk about it later do we know where we're dropping off this uh uh our uh
+47:58 - gift i think till richter yes we found consuela which would be our point of contact in this situation i believe
+48:04 - great let's uh let's go do that well where's lego yeah fuego
+48:11 - i'm going to leave your companion uh you sacked out on the couch yeah for sure she wasn't with us for very long you're
+48:17 - returning to the club yes okay in that case i think it's very
+48:22 - convenient that you should meet somewhere near the dance floor together huh oh yeah thank you
+48:30 - so good thank you for asking you're so welcome oh my god shy practice like is that their name
+48:37 - yeah yeah that was so look and i'll have to bore you with
+48:44 - hey how's it going pretty good oh glowing almost oh my god thank you you're so welcome
+48:50 - oh consuela right oh yeah back at the bar i checked my purse is the hand still in
+48:55 - there it's definitely still in there the uh the hand in the plastic bag okay
+49:01 - consuela has finished her conversation with the bartender is now perched on a
+49:07 - stool at the bar itself she's got a glass of what might be wine in her hand
+49:13 - that she's not drinking and she's looking out a provingly crossed
+49:20 - the sea of people but she notices you when you approach and she raises your glass in
+49:25 - your general direction you run quite the establishment consuela you should be so proud of yourself cue thank you
+49:32 - if i do say i'm so myself it's a final place we got the thing
+49:38 - you got it congratulations you know i have my doubts i wasn't sure you doubted us consuela
+49:45 - well us maybe i doubted some of you
+49:53 - that's fair we are here to return and the information and items that were
+49:58 - requested did he pay up uh sort of sort of
+50:05 - yes do we want it here we people can do you have it with you yeah of course i'll
+50:10 - take it now richter's a little busy there's some
+50:15 - there's a lot of political fallout tonight it's not every day somebody you know
+50:20 - bites it for eternity i have a tiny teensy teeny tiny teensy little question
+50:26 - um some of my friends and i were thinking about doing a little custom job on the cement pillars over there do you
+50:32 - think if it was really nice looking director would maybe be cool with it
+50:39 - you gonna tag his club i think of it more as an installation
+50:44 - it could be very attractive could bring some you know some some little people
+50:49 - more people get interested in the uh the location could be an investment free of charge obviously and you know
+50:56 - what if richter is looking for an opportunity to uh
+51:02 - sell some art again he's gonna need to drum up uh attention on
+51:09 - maybe we found our new artist are you still sore about that killer
+51:14 - if he wants his money back we could always do it again tempting
+51:20 - [Music] you know technically my club in a way in a manner of speaking so it's
+51:28 - probably my decision it sounds like you really want this i really do
+51:34 - well then i have a favor to ask you okay
+51:40 - what is it so i'll take the hand oh yeah here you go
+51:48 - it's still wrapped up tightly in the plastic she looks inside
+51:53 - i can't believe he did it wait did he do it he did the cut yeah
+51:58 - it's clean right that's impressive well i wasn't going to do it himself it
+52:04 - takes a certain measure of resolve to want to cut off an uh piece of your own body and i don't believe he had it well
+52:10 - i wouldn't know well she tucks it under her arm okay
+52:16 - i'll make sure the boss gets this i'll put in a good word he's gonna want to see you later
+52:22 - i think bronx cheer will be going on soon you should stick around for the show at least for the for the first set
+52:27 - maybe okay and then uh after you've settled up
+52:32 - we'll talk i like this yeah we'll see okay yeah
+52:39 - you get that that's how it works right favors for favors i think so yeah friends for friends
+52:45 - i can see we're going to be besties i'd like to be besties with interesting people
+52:50 - so do i good taste thank you mostly
+52:55 - oh you know he's growing on me well we'll see
+53:01 - he holds the door open for people how polite yeah well you gotta have one good trait
+53:08 - right did you learn anything on your little adventure
+53:13 - yeah i learned that uh a single fracture will make someone scream but a compound fracture
+53:19 - they don't oh i like you better than i thought i did see he warms up to you
+53:26 - well we'll see i better get this to the boss thank you enjoy yourselves you have the run of the
+53:31 - place on stage backstage under stage whatever just not the office where should i go if
+53:37 - i'm needing food she uh swirls the wine that she's not
+53:44 - drinking around in her glass a little bit and makes a big show of sniffing it
+53:49 - you mean if you're hungry if you need a little refreshment yes i don't want to well i mean look outside
+53:56 - it's a big place i'm sure you can work it out but if you're picky or if you're shy
+54:04 - not with an e i saw who you left the floor i just want to make sure
+54:10 - i'm not feeding on anyone i'm not supposed to oh yeah that's important good idea right margo what i
+54:18 - not again i learned nothing
+54:23 - i recommend downstairs thank you i'll go downstairs too
+54:30 - she hops off the stool and uh moves away with a determined pace
+54:37 - clutching the grizzly trophy in the plastic bag in tune she's swallowed up by the people
+54:45 - well downstairs you were just down there what's down there i mean i know what we saw on our tour
+54:51 - but it took a little bit of the grand tour it's the uh you know the colosseum
+54:57 - the fight club still under construction um
+55:02 - found a couple back entrances that might be useful in the future
+55:08 - uh but for the most part uh i don't know came back up here to check on you guys
+55:13 - well well you missed us it appeared all right let's not look at it that way
+55:18 - it appears that if one wants to feed uh downstairs is the place so
+55:25 - there's more down there than you saw yeah i do know where there's a ham sandwich with about eight pints attached
+55:31 - to it but other than that yeah maybe not there's side rooms too if you need like
+55:36 - privacy right be careful
+55:42 - don't get yourself into the same trouble again only new mistake it did bring us together though yeah
+55:49 - also um never mind oh never mind let's go okay a wave of
+55:55 - excitement ripples through the crowd bronx cheers taking the stage
+56:01 - it's a trio a tall woman with beautifully angular
+56:08 - features and gorgeous dark skin and the most luxurious long black hair that you have
+56:14 - ever seen playing league guitar she's joined by a
+56:19 - slender short spiky-haired person with a electric green coloration to their
+56:25 - follicles on the drums wearing a t-shirt that says eat the rich
+56:32 - and then an athletic young man with his hair shaved down to the stubble
+56:39 - baggy clothes so oversized that you really can't tell much except broad shoulders and tall
+56:46 - he's playing bass guitar it's hard to categorize their sound
+56:53 - it's part hip hop part noise pop part punk it's completely unique and
+57:00 - distinctive but it's good and people are into it they are reacting as their tastes and impulses
+57:07 - take them some dance some sway some shout some just start immediately making out against the walls
+57:13 - [Music] the dance cage begins swaying back and forth even more alarmingly
+57:19 - [Applause] like a ship tossed at sea cannot be up the color it can't be it but i do want
+57:25 - to get in there desperately i know music beats
+57:30 - hard against your bodies as you push through the people on the dance floor
+57:36 - feels almost like sound not blood
+57:41 - is animating your body and that insistent rhythm makes you more aware of
+57:46 - your insides than at any point since you became vampires
+57:53 - there's something appealing and seductive about it right there here you're just one more body in the crowd
+57:59 - and in the semi-darkness nobody notices or cares if you breathe or not
+58:05 - and you wonder if maybe this is what eternal life should mean the freedom to dance
+58:11 - to party to drink to love all night
+58:18 - forever this seems like a good place
+58:24 - to pause our vampire story for just a few moments
+58:46 - hey everyone i'm yev i hear from new york city now uh victor sent me out here to do some tech work for a friend of his
+58:53 - i haven't quite met up with them yet but uh but either way very exciting to be sent on location now back to the blazing
+58:59 - uh big apple as they call it lots of fun things about the uh the big apple uh it's got it's got apples uh they're huge
+59:07 - uh the nice thing about it is i tend to retain my memory out here back on the west coast uh
+59:12 - i would lose entire days uh which was super strange and very weird
+59:18 - but victor never seemed to be bothered by that in my memory lapses so that was good it didn't affect my employment
+59:24 - which is great i love everything about it uh i guess and well anyway now that we're out here in the big apple uh i'm
+59:31 - helping some of his friends or at least i'm supposed to be hopefully soon when they reach out but
+59:37 - i wanted to to tell you uh the same thing that i'm gonna tell them which is
+59:42 - if you go to backblaze.com ny by night that's n-y-b-y-n-i-g-h-t
+59:49 - you can start a free trial of backblaze we'll back up everything on your computer it's movies photos music videos
+59:56 - contracts covenants i don't know things that are important to fancy business people like victor and
+1:00:01 - i'm sure everyone out there as well and you'll have a copy of it available to you wherever you are uh
+1:00:07 - maybe on your computer maybe on your phone maybe on your other mobile devices ipads i don't know something anyway go
+1:00:15 - to backblaze.com ny by night ny by night
+1:00:20 - give yourself a free trial uh and uh yeah i'm yev by the way i don't know if we've met but uh i'm canon uh victor
+1:00:28 - says that all the time i'm not quite sure what that means but uh but that's who i am and we'll see you next time
+1:00:46 - [Music]
+1:01:01 - [Music]
+1:01:36 - [Music]
+1:02:08 - [Music]
+1:02:37 - [Music]
+1:02:52 - so
+1:02:57 - [Music]
+1:03:03 - [Music]
+1:03:26 - [Music]
+1:03:45 - [Music] do
+1:03:53 - [Music]
+1:04:03 - [Music]
+1:04:19 - [Music]
+1:04:31 - [Music]
+1:04:47 - [Music]
+1:04:56 - [Music]
+1:05:30 - [Music]
+1:05:45 - [Music]
+1:06:51 - [Music]
+1:07:09 - [Music]
+1:07:23 - [Music]
+1:07:43 - welcome back to season one episode two rumor of war
+1:07:50 - as our codery has just begun to get familiar with the cage on party
+1:07:57 - night you were all moving away from the dance floor
+1:08:03 - headed uh downstairs for a bite to eat is that right isaac um how peckish are
+1:08:10 - you how i could eat you could be in a terrifyingly dangerous position but you
+1:08:15 - know we were directed downstairs and it's been mentioned a number of times so maybe there's something we should see
+1:08:23 - you make your way toward the exit off the dance floor
+1:08:29 - margo hello
+1:08:34 - yes what i wheel around over over here it's mateo
+1:08:40 - oh hi the rest of you see
+1:08:46 - well what do they see margo oh man uh mateo is a
+1:08:52 - tall like but like thickly built like he's built like a tight end
+1:08:57 - but his hair is sort of in that like like it's really well done he's got like a boy scout air about him
+1:09:05 - um clean shaven like big brown eyes uh like high cheekbones just very
+1:09:12 - classically handsome and clean cut
+1:09:18 - he's wearing what he probably thinks is club attire but
+1:09:23 - he's clearly dressed himself and the mark has been missed
+1:09:29 - the assignment was not understood he looks both surprised and nervous and
+1:09:36 - uh uncertain to see you here i ain't sort of uh subconsciously take a
+1:09:43 - step towards ray oh i see hey um
+1:09:49 - matteo morales borough council how you doing ray ray malcolm good to meet you
+1:09:55 - it's a bit of a tight squeeze bit of a tight squeeze easy easy there big guy
+1:10:03 - have a cup of coffee you're freezing okay we don't have to insult hey um
+1:10:08 - hi he's making a attempt to sway yeah arrhythmically to
+1:10:16 - the music yeah yeah like what are you doing here
+1:10:24 - my pr manager thought it'd be better if good if i you know got out
+1:10:30 - you look like you're about to attend a mormon wedding you know it wasn't my idea
+1:10:36 - i'm not even sure where she is maybe she was here with me when i got here
+1:10:42 - she you remember rita it's just
+1:10:48 - it's just business you um you look really good
+1:10:55 - thanks so do you but maybe just
+1:11:00 - not the sweater and i just want to like kind of pull the weird like v cut sweater he's
+1:11:06 - got on like come on man look that guy the person right next to you has no shirt on
+1:11:14 - uh what's with the difference maybe i should dress like uh ray here
+1:11:20 - didn't hurt i'm sorry that was me it's very good to see you
+1:11:26 - yeah good to see you too hey uh hello
+1:11:33 - mateo morales mateo morales pr person
+1:11:38 - no no i'm um well you can tell them i'll uh
+1:11:44 - let you enjoy your evening i'll be um i guess i'll be at the bar
+1:11:49 - okay tell rita i said hi great band huh yeah yeah yeah relax it's going to be okay
+1:11:57 - thanks a lot you're a big help see you later
+1:12:03 - you don't look that out of place if that makes you feel any better thank you it
+1:12:08 - does appreciate it no problem yeah watch out for her
+1:12:14 - oh i plan to he's not around i know
+1:12:20 - all right he uh leaves your company and moves out into the dance floor in the
+1:12:26 - direction of the bar should go did you used to die yeah obviously come
+1:12:31 - on oh he's your ex-boyfriend yeah yeah is he
+1:12:37 - or is he no no oh
+1:12:43 - wow so you know how like you can be a lot to people
+1:12:48 - when you're my girls uh-huh i think i whammyed him very hard very
+1:12:54 - early so it's a it's an awkward breakup oh you know what i mean yeah yeah
+1:13:00 - yeah wow local politician and weird ex
+1:13:05 - love to see it can we go yeah we can go
+1:13:11 - i'm sorry i've never seen you that uncomfortable i
+1:13:17 - don't and i curtsy
+1:13:25 - you make your way off the dance floor and you're headed downstairs into the bowels i've never seen cage
+1:13:35 - a kindred band before yeah i don't think i have either it's interesting do you feel represented
+1:13:41 - by them no oh i just
+1:13:47 - it's an it's a an interesting way to
+1:13:52 - spend eternity no to be able to influence an entire group of people very quickly
+1:13:58 - were they doing something it's very possible oh oh
+1:14:05 - that makes a lot of sense that's cool i like it
+1:14:11 - a lot less cheery now though i don't think it's meant to be um bad i think it's just meant to uh
+1:14:18 - enhance their enjoyment of the evening hmm
+1:14:23 - that seems nice yeah we don't have to always be not nice
+1:14:28 - just most of the time gets
+1:14:34 - to go i could if there is a
+1:14:39 - place that's designed for that downstairs it doesn't uh
+1:14:45 - really we're just here until we get called on so yeah which is taking forever yes it is
+1:14:52 - but i'm having a good time nothing we can do about that not exactly
+1:14:57 - ray do you want to take them back to the pit we'll head downstairs but uh
+1:15:05 - i don't know what else is uh what else is down here a couple other doors all those brick
+1:15:10 - quarters and disused hallways a lot of rooms left over from the
+1:15:15 - factory days filled with machinery and tools and a lot of dried brittle broken
+1:15:22 - concrete everywhere it was a cement factory after all at one point in time a couple of those big portable cement
+1:15:28 - mixers like they turned into the spotlights upstairs of course
+1:15:34 - you know where the tanning salon is and it's chair and it's skylight although it's not
+1:15:40 - exactly open for business right now i don't know have you checked
+1:15:46 - i mean it's not serving its normal function have you chatted
+1:15:53 - and go see yeah i mean it's not really the end of our business and it might uh
+1:15:59 - cause some ill will if we barge in on something we're not supposed to be doing i go back to the door to the door i'd
+1:16:05 - like to put my ear next to the door so you make your way to the tanning salon
+1:16:11 - it's a giant metal door
+1:16:17 - there's no window in it no holes in it not even a keyhole it's very thick
+1:16:23 - and very cold against your already cold skin
+1:16:29 - there's your silent listening yeah yeah you hear something
+1:16:35 - it sounds like somebody crying
+1:16:45 - shouldn't you move on or you know was the information worth it it always is
+1:16:53 - hello we should go oh hey
+1:16:58 - can you hear me i heard somebody airbox is that you
+1:17:05 - our business consuela come on let me out
+1:17:11 - let's go it's not funny anymore we should go
+1:17:17 - how soon to dawn is it well at least half the night is gone
+1:17:26 - it could just be a joke it's not okay it's not always worth it there's a faint pounding on the other
+1:17:33 - side of the metal door it's dulled by of course the thickness of the metal hey hey who is that mario is that you
+1:17:42 - come on yeah we should go yeah
+1:17:50 - i'm going to start walking i go too believe the door and what's behind it behind you
+1:17:59 - and move away
+1:18:04 - you pass by the pit or the lone construction worker is still
+1:18:11 - trying to get those metal railings right hey did you uh did you get something to eat
+1:18:18 - yeah i'm good you're all good all right all good yeah i finished my sandwich so i don't have anything oh my god is this your friend did you
+1:18:24 - guys this is my new best friend yes hello hi hi what's your name hey what's that what's your name louise hi louise
+1:18:31 - how's it going hi working hard or hardly working hey you know it right
+1:18:36 - hey uh what do you think it looks great i i i told uh
+1:18:42 - i told your friend here uh on schedule great fantastic yeah i don't know what you guys are gonna
+1:18:48 - i don't know what you guys are gonna do this place i mean the way they had us build it you think they were gonna put elephants in here i mean
+1:18:53 - triple reinforced everything and you know solid rivets everything is i mean
+1:19:00 - you could detonate a bomb down here and it wouldn't do much we just like to make things that last
+1:19:07 - well i mean all i'm i'm in favor of quality workmanship of course but still this is extreme
+1:19:13 - anyway i'm we're being paid well so i'm not i'm not i'm not complaining i'm sorry i'm not complaining no not at all
+1:19:18 - you are not complaining he likes when things run on time well we're almost done i guess something nice
+1:19:26 - another week something like that are you coming to the whatever they're doing here sure fights
+1:19:31 - i guess yeah of course yeah we should go
+1:19:37 - yeah okay see you later have a go betcha
+1:19:44 - and soon the pit is behind you as well a lot of other doors down here most of
+1:19:50 - them locked the ones that aren't are those disut storage areas and places filled with tools but as you
+1:19:58 - round the corner away from the pit you hear other sounds
+1:20:04 - laughter clink of glass was against glasses
+1:20:09 - people having a good time coming from behind
+1:20:16 - a different door murmur of voices
+1:20:21 - did you check this out when you were down here no no no we can go check this out yeah
+1:20:28 - let's see what's down but let's point something out that room that we passed
+1:20:35 - with the uh person that i know you were thinking about saving
+1:20:40 - anyone who went down to this room walked past that door as well
+1:20:46 - he's not out
+1:20:51 - okay that's good to know
+1:20:59 - okay you reach the door from where the sounds of the little party are coming from
+1:21:04 - absolutely people having a good time behind that door drinking talking laughing
+1:21:10 - got their own little music maybe it's a maybe it's a phone maybe it's an ipod
+1:21:16 - who knows
+1:21:22 - after you of course open the door open the door
+1:21:30 - it's a small room a couple of couches some easy chairs there are four people here
+1:21:37 - one of them is a beautiful creature long raven
+1:21:43 - curly hair distinctive features impeccable makeup
+1:21:48 - wings to die for ruby lips and she's entertaining
+1:21:53 - three guests one of them is cradled in her lap and you can still see
+1:22:00 - pin pricks from her fangs in his neck he's lost
+1:22:06 - in the ecstasy of it blood just trickling down
+1:22:11 - onto his collar the other two
+1:22:16 - are on the couch making out with each other and maybe waiting for their turn
+1:22:22 - they glance at you smile they seem to assume you're here for the
+1:22:27 - party yeah of course
+1:22:36 - the beautiful raven-haired woman gently
+1:22:41 - removes her guest head from her lap and stands up
+1:22:48 - i didn't mean to be greedy oh not
+1:22:55 - aren't you fabulous look isn't she though same and you date wow you can pick them
+1:23:03 - thank you yummy what's your name simone simone hi
+1:23:10 - uh fuego fuego it's a whole fantastic
+1:23:18 - what about you hello hello
+1:23:24 - you mean my name it's yeah my name's isaac isaac
+1:23:30 - figures you got a dark academic thing going on you know
+1:23:35 - right sorry i didn't notice it until you said something and now it's all i can think
+1:23:41 - of but i'm right aren't i you are you haven't nailed it you know it's the whole edgar allan poe
+1:23:46 - thing yes have you been to his cottage he's got a he had a little thing here in the box
+1:23:51 - i'm sorry um sarah artist extraordinaire sarah for sareef serif serif like now is that like
+1:23:58 - the font or the angel like this font ooh there's an angel sure ap
+1:24:04 - you know the seraphim oh that's all biblical that would have been better hey look
+1:24:10 - it's not too late oh think on it nice to meet you all
+1:24:15 - ray always a pleasure to meet a sharp dressed man
+1:24:22 - look as i said i didn't mean to be greedy i was just on my way out uh
+1:24:27 - you're good oh boss man and i had some words and yes i can tell what
+1:24:33 - you are yeah all right thank you all right good explanations are out of
+1:24:39 - the way do you want to yeah all right may we please be my guest oh my so
+1:24:47 - generous now i uh i'd leave him i'd leave greg alone he's
+1:24:53 - um you know but uh
+1:24:59 - you know the two mortals on the couch look up at you all
+1:25:05 - expect expectantly i'll just leave you to it thank you i
+1:25:11 - hope we meet again in fact i will make sure we i would love i would hope so
+1:25:17 - as she leaves the room i lean over to steph i go who's edgar allan poe oh
+1:25:23 - oh he's a poet it's a compliment oh okay very famous poet
+1:25:28 - great yeah never happened simone excuses herself and shuts the door
+1:25:35 - behind her now who's dining
+1:25:43 - serif and isaac i'm actually fine
+1:25:48 - you sure
+1:25:54 - be a little messy if i decided to eat right now you cannot say things like that to me i
+1:25:59 - have a dirty mind okay wow
+1:26:06 - she's gonna go stand by the door just in case they take no persuading
+1:26:13 - they've done this before they offer you their wrists their arms their necks
+1:26:18 - whatever you like i take a wrist they're into it
+1:26:24 - and they enjoy it great so you are able to
+1:26:29 - drink at your leisure to slide your fangs into their flesh
+1:26:36 - there's no resistance just sweet sweet
+1:26:42 - satisfaction thank you so much
+1:26:48 - sarah how much do you take how many leaving you one hunger leaving me at one hunger
+1:26:53 - just enough to take the edge off then and isaac down to one as well down to
+1:26:59 - one as well it's over too soon
+1:27:07 - and your new friends seem a little disappointed that that's all there is
+1:27:19 - good evening they wave languously from the couch do
+1:27:24 - you come here often uh-huh good to know
+1:27:29 - we'll bring friends next time oh i would hope so it'll be a party i like that
+1:27:36 - i like you are you sure you don't want sound look
+1:27:43 - how many of them are there well there are three but
+1:27:48 - they have all been tasted taking more at this point
+1:27:55 - could injure one of them but it might not it's hard to tell you're not a medical doctor
+1:28:02 - it would not end well okay
+1:28:09 - well we should head back upstairs and see if they're ready for us because as much as
+1:28:14 - this is fun i don't need to live here the rest of my own death [Laughter]
+1:28:20 - let's do it you leave the room behind
+1:28:29 - you reach the landing that goes up to the main floor and that's where you find consuela
+1:28:34 - on her way down you saved me the trouble here we are hmm
+1:28:40 - somebody's been enjoying the amenities if they're partaking then yes
+1:28:47 - satisfied with the service yes very appreciated it's a good show
+1:28:53 - you're missing the band though we saw this oh well we should take more time and do that not do the thing that we
+1:28:59 - came here to do we heard a good oh my god is is richter ready to see us calm down killer
+1:29:06 - all things come to those who wait or those who don't get themselves killed
+1:29:11 - so yes boss man's ready to see you
+1:29:18 - [ __ ] finally you're so in a hurry for someone who's going to live forever we have
+1:29:24 - one thing to do tonight so far we have done six things that are not that thing i know let's just go do that thing we're
+1:29:31 - having a lovely night yeah it's objective driven yeah
+1:29:37 - are you not having a good time with us look it's he didn't say no
+1:29:43 - of course he didn't can we just go yes he's having fun
+1:29:49 - you like us consuelo whatever you need us to do
+1:29:54 - oh are you ready now okay i thought you were in a hurry so um she
+1:30:01 - walks up the stairs no elevator for you this time you gotta take the long way up
+1:30:07 - you pass the second floor you can see through the open door on the landing that it's actually a big wide balcony that runs around the
+1:30:13 - edge of the dance floor a lot of people up here hanging out drinking talking dancing looking down
+1:30:19 - this is apparently where you get to that cage thing and then all the way up to the top floor
+1:30:28 - to that meeting room long dark big windows on one side looking out over
+1:30:35 - the river seeing the lights of queens from here rikers island
+1:30:42 - richter is standing this time at the end of the tear
+1:30:48 - and the table is strewn with papers and file folders
+1:30:54 - maps genuine paper maps
+1:30:59 - lizzy's here too and so is airbox
+1:31:04 - come on of course good evening
+1:31:10 - hey good evening well
+1:31:16 - nice to see you can rely on something i have my doubts we aim to please
+1:31:23 - he uh gestures at the floor by his feet where the plastic bag is sitting
+1:31:28 - your work i hear yes clean isn't it nicely done
+1:31:35 - so what's the story what was his hold up
+1:31:41 - well it appears he attracted the attention
+1:31:47 - of other people that were also demanding of his time and money and were
+1:31:56 - causing him to be rooted to the spot
+1:32:01 - people people uh some people people but under the
+1:32:08 - employee of a us person
+1:32:14 - larissa put nesca ah the [ __ ] putin asker really yeah
+1:32:19 - oh i really need this that was uh are we gonna should we uh
+1:32:25 - yeah you should there was one other name that got mentioned look we're not trying to we're not
+1:32:30 - trying to give you bad news on a busy day yeah there's a good chance that cat
+1:32:36 - costello's rent tonight was actually wrecked as ren or not richter sorry drexler's rent yeah
+1:32:44 - cat costello is mixed up in this 100 her name was mentioned
+1:32:52 - the hakata are beyond weird right so who knows
+1:32:57 - maybe maybe not but i would like to know what the [ __ ] putin eska want
+1:33:05 - seemed like drexler also owed them rent
+1:33:11 - owed them money and what for what do you say why nope they say why no he kind of
+1:33:16 - broke some dudes um real bad so he that was very nice yeah
+1:33:21 - a guy passed out he might have known something i don't know we can talk it to him another time
+1:33:27 - so you tortured a guy and got no information that was useful yeah i'm not very effective when when it comes to torture it's all airbox can do not to
+1:33:34 - laugh when you say that he actually has to bite his lip i'm told it requires patience
+1:33:42 - airbox looks at richter and richter says no no no no no not now well
+1:33:48 - so you don't know why he was in debt to the putin asca no and
+1:33:55 - you don't really know what the connection to cat costello is no i'm not about her making it right
+1:34:01 - look drexler knew we worked for you did you want us to pry we know it's a busy night and maybe you don't want a bunch
+1:34:07 - of heat on you from other people oh you're good let's just say i wanted to see what you
+1:34:13 - would do as a as i mentioned
+1:34:19 - any gestures to the stuff on the table i'm a busy guy
+1:34:25 - as you uh look at the papers they're all spread out a lot of them look like financial reports
+1:34:32 - a lot of columns that have a lot of figures in them right the map has various neighborhoods in the
+1:34:39 - bronx circled different colors
+1:34:44 - so callahan's dead i told you now let's have a moment of silence okay
+1:34:49 - that was great um nobody liked that guy keep hearing this but uh
+1:34:55 - things are moving fast already you ever hear of a nickname torque no
+1:35:00 - stupid neighbor stupid stupid name oh stupid stupid name
+1:35:05 - yeah he's uh his digs are up in belmont north in the borough
+1:35:11 - he and his coterie are kind of big shots around here he's decided he's the new baron all of a
+1:35:18 - sudden didn't waste any time i mean ashes aren't even cold yet wasn't there
+1:35:23 - supposed to be a vote or something yeah well
+1:35:30 - you're gonna find out that the anarch movement at least around here
+1:35:36 - is less movement more of a kind of free-for-all
+1:35:42 - whatever you can do is yours
+1:35:47 - so nah no vote what was callaghan's territory like i mean
+1:35:53 - he likes to hang out in staten island which tells you everything you've gotten to know about him right because you know
+1:35:59 - right everything you gotta know so but you know he was no slouch either i
+1:36:05 - don't know how he got taken out it had to be somebody pretty beefy i mean you've been around a while
+1:36:12 - something like 1880s or something well he was really old-fashioned he was an absolute jerk
+1:36:20 - i heard it said he used to run with the sabbat who knows that word lizzy
+1:36:27 - flinches visibly and turns her
+1:36:33 - stare on isaac and she points
+1:36:39 - okay pointing is rude as [ __ ] busy we went over this yeah his name is isaac not sabot yeah
+1:36:48 - lizzy something you want to tell the rest of the class
+1:36:56 - he says he's not do you believe him
+1:37:06 - hmm arya not to my knowledge
+1:37:15 - i wasn't around for the big fight neither was i
+1:37:20 - so you say i mean first it's la sombra
+1:37:25 - and now you guys you heard about that now we got the sombra god i don't know what
+1:37:31 - i don't know what prince p is thinking but whatever look all i know
+1:37:37 - is that uh we're not common and apparently we make people
+1:37:42 - uncomfortable i heard you ain't common in the ivory tower and you ain't common in the
+1:37:49 - movement but there is a group you are common in a were or might be
+1:37:55 - and that's the sabbat i keep hearing that word in the last five minutes and
+1:38:00 - doesn't mean anything to me let me teach you people anything truly nothing i am holding so many questions yeah one
+1:38:07 - what's the sabbat two what's the song bra yeah three who's prince p
+1:38:14 - richter looks at air box air box shrugs i'm doing that a lot tonight i haven't
+1:38:20 - uh i haven't got time to play nurse mate but i can't have you running around ignorant
+1:38:29 - i'm gonna keep my word you paid your rent you took care of uh drexler for me so you're gonna get what
+1:38:35 - i promised you gonna piece of dirt call your own
+1:38:40 - territory like i said domain if you're fancy
+1:38:49 - he looks at the map
+1:38:54 - i haven't got time to deal with putin eska or cat costello or any of that so
+1:39:02 - i'm going to give you port morris yeah now it's your problem i don't think
+1:39:08 - drexler's your problem the putin eska is your problem cat costello if she's involved also your problem
+1:39:15 - remember what i said keep your [ __ ] secret don't make it my issue you'll be fine but you would like to us
+1:39:22 - to keep you informed of what's going on of course only if it's interesting great if i
+1:39:27 - don't hear about it how interesting can it really be that's very very true yeah think you can handle
+1:39:33 - it absolutely i think we can handle almost anything can i ask a question
+1:39:39 - i think you're probably better since you don't seem to know the required curriculum i don't
+1:39:46 - uh and i want to lean over the map and point at like my family's neighborhood like where my
+1:39:52 - mom lives who's in charge of that area that's part of torque's piece
+1:39:58 - interesting yeah he's all high-minded ideals
+1:40:04 - he's been preaching revolution and rebellion against the camarilla for i don't know how long i get sick of
+1:40:10 - listening to it but maybe now he'll actually do something
+1:40:15 - if he's the new baron yeah we got barons we have barons and counts and who knows
+1:40:20 - what else there's probably dukes and duchesses too for all i know you had another question who's prince p
+1:40:27 - hm that's prince helene
+1:40:32 - panhard i know right imagine having to get up every night
+1:40:39 - look in the mirror and say i'm prince panhard
+1:40:44 - yeah but she's no slouch either she's been around a while
+1:40:50 - she's clan ventrue interesting
+1:40:57 - most princes are a lot of barons too these
+1:41:02 - nights huh yeah she's the uh i guess you could say the
+1:41:09 - compromise candidate in the tower she's the only one nobody hated enough to do anything about
+1:41:15 - so they made a prince hmm
+1:41:21 - this was all after the sabbat war stuff oh yeah what's a sabbat and what's a la sombra oh my god i can take care of the
+1:41:27 - lasaun for one of you you got this one covered i can do it later so i don't waste your time no i would love to hear
+1:41:32 - it remember when i talked about other clans everywhere the sombra's another clan cool
+1:41:38 - wow keeping things simple listen professor you can't leave her with just that i
+1:41:44 - wasn't going to all right the lasombra are a clan that are very
+1:41:49 - similar to ventrue in certain ways in that they tend to put themselves in positions of power but generally instead
+1:41:55 - of venture doing business they'll sombra do religion and they deal with shadows
+1:42:04 - if i'm to trust what i've heard interesting okay it's true
+1:42:13 - thank you for your incredible input lizzie and there's a bot too
+1:42:18 - what's that okay and we're not interested in sabbat what is it
+1:42:24 - well the saboter uh i don't know how you would describe it i mean it's a
+1:42:32 - it's the closest thing we got to a vampire death cult i guess oh they are
+1:42:37 - bad news okay really really [ __ ] up vampires i mean
+1:42:43 - you want no part of it and they hate the camarilla something fierce i guess
+1:42:49 - i don't know i've never met one okay unless maybe i have i don't know
+1:42:54 - okay we can stop looking at isaac now i feel like i'd be uh a lot more
+1:42:59 - um better off if i was able to do that kind of thing
+1:43:06 - i don't know don't know too much about it but the sombra and your clan
+1:43:12 - i guess they're like tight with the sabato they used to be i don't know
+1:43:17 - i wouldn't last couple of decades everything got all confused nothing's like it used to be
+1:43:23 - well considering i've only been around for a couple of years i wouldn't know anything about that
+1:43:29 - yeah you ain't smart enough to be older i think or you're a good actor i don't know which
+1:43:35 - yeah yeah anyway
+1:43:40 - the lasombra didn't want much to do with camarilla or the anarchs until really
+1:43:48 - recently and then suddenly it's hey let us in we're not happy where we were could we come into your house and
+1:43:54 - mess things up some princes are allowing it to happen i hear chicago
+1:44:02 - is where it started but i ain't got the deets but here here in new york
+1:44:08 - the prince has let a few in if you're unlucky you might meet one
+1:44:15 - you never know i don't know
+1:44:21 - tork can beat baron for all i care as long as he leaves my business alone
+1:44:28 - if he wants to lord it over me well he can meet me in the pit when's the pit gonna be open
+1:44:36 - next week should come everyone who's anyone's gonna be there
+1:44:43 - second question do you need potentially any branding or uh custom
+1:44:48 - artwork for the pit weird question talk to consuela i like
+1:44:54 - that answer thank you consuela just nods and smiles at you
+1:45:01 - yeah so so port morris port morrissey
+1:45:06 - you got to take care of it now i would recommend spending some time get to know the place i haven't had a
+1:45:13 - lot of uh time lately as you can see keep an eye on it
+1:45:19 - feeding uh maybe not so great but maybe you can improve it
+1:45:25 - i like a fixer-upper good thing although some of those real estate investment
+1:45:32 - bankers might be beating you to it isaac is uh port morris where you're already
+1:45:38 - residing yeah convenient huh yes yeah almost like this was planned from the beginning
+1:45:44 - almost i mean couldn't know it would happen you might have died
+1:45:51 - did you no that's a good point what happened to us
+1:45:56 - well hard to know you're all young you don't know a lot
+1:46:02 - and some of you have problems with your temper
+1:46:07 - i don't know who we could be talking about me neither which brings me to
+1:46:12 - the last item on the agenda airbox
+1:46:18 - he moves so fast your eye can't really track him and he's in front of you and hitting you
+1:46:25 - before you can move cool cool cool cool let's do some things with that you can
+1:46:30 - take it or you can punch back uh i'm punching back
+1:46:35 - i'm not even looking at a roll for that i'm punching back i'm going to roll a lot of dice
+1:46:44 - he is hungry i am going to
+1:46:50 - uh activate toughness if i can hmm it's toughness passive no it's active
+1:46:58 - does it require a browser i believe it will require a route check yes you're talking about the uh
+1:47:03 - level two fortitude mm-hmm double oh no sorry plus one round i believe it
+1:47:10 - is your house check yes it is why don't you make check for that right now i'm gonna get a little bit hungrier
+1:47:21 - rip his head off take him out sure as hell try to he's got a very
+1:47:27 - thick neck though more blood for us
+1:47:32 - go for it you ready yeah let's do it
+1:47:42 - okay um
+1:47:48 - six successes and what am i rolling against that uh you are rolling your
+1:47:54 - strength and brawl if you're fighting back okay you get the impression he's holding back
+1:48:00 - on you maybe he's trying to see what you've got it's not striking you with his
+1:48:05 - full potential three successes three successes so the
+1:48:11 - margin is three so you take three superficial reduce but they're cut in
+1:48:16 - half and then reduced again for my for your toughness so even though you're buffeted by his
+1:48:23 - fists rocked by the blows you take it and you're not damaged but
+1:48:28 - you don't manage to hit him either at least not in any way that does need permanent harm yeah
+1:48:35 - and then he really gets going
+1:48:41 - serif isaac margot what what was i supposed to just
+1:48:47 - sit here and let this happen i'd like to catch chemistry okay
+1:48:53 - let's get intentions ray are you gonna continue to try to give as good as you get
+1:49:00 - yeah no one hits me and doesn't get hit back okay margo i want to distract airbox distract
+1:49:06 - him in what way what's the distraction uh i would try to use mesmerize on him trying to catch his eye in the middle of
+1:49:12 - a fight really difficult to do so it's going to be very hard very difficult task serif
+1:49:19 - i would like to try and create an illusion of um rey that's closer to margot's line of
+1:49:26 - sight it's got to be a flickering instant moment right
+1:49:32 - so maybe something he sees out of the corner of his eye or maybe he would think there's another attacker somehow that he
+1:49:39 - failed to notice yes okay isaac i stand and keep looking at richter
+1:49:45 - richter's watching he doesn't seem too emotionally involved in the altercation
+1:49:52 - consuela does though she's watching with wrapped attention she's digging this
+1:49:57 - lizzy though is watching isaac
+1:50:03 - okay so from this side first
+1:50:08 - go ahead and make that shimmer street roll serif at the same time and
+1:50:15 - why dominate in the middle of combat not an easy thing to do especially when you are not the individual
+1:50:22 - being hit in the line of sight it's manipulation and dominate and it does require a rouse check
+1:50:30 - so if you've got a rouse check coming make one now yeah did it so you are not getting hungry
+1:50:36 - failure failure that's why i get hungry um so stepping in
+1:50:42 - where you aren't wanted well as long as you're going to do it
+1:50:47 - give them one for me i'll do my best
+1:50:52 - okay so how many successes on the roll oh [ __ ]
+1:50:59 - four worst successes good not good enough
+1:51:05 - so to an office skate what else am i rolling you are rolling one moment here
+1:51:15 - i'm on the wrong page you're rolling uh manipulation and
+1:51:20 - obfuscate okay
+1:51:27 - two successes two successes well let's see his
+1:51:32 - pool he's unprepared for it he doesn't have any idea what you're doing
+1:51:39 - okay not great so and the punching of rey
+1:51:45 - you're gonna roll your uh your retaliation strengthen brawl again once more time
+1:51:52 - okay two successes two successes yeah
+1:51:58 - okay he's got a messy critical yeah let's do it okay
+1:52:04 - certain things happen at once yeah i can burn a willpower but it's not even going to do anything against that the margin is too wide unfortunately but
+1:52:11 - that wouldn't stop well uh that wouldn't stop right trying okay uh
+1:52:17 - superficial willpower damage you re-roll it yep still nothing still nothing okay
+1:52:24 - margo you attempt to lock eyes with air box but he is so intent on
+1:52:31 - beating ray to a pulp that you can't get his attention long enough
+1:52:36 - for the whammy to take hold but something else happens
+1:52:42 - serif you create a flickering illusion a momentary shadow perhaps
+1:52:49 - out of the corner of airbox's eye and he got the messi critical
+1:52:54 - but he also takes his attention off ray just for a moment to look in surprise to his left and maybe that explains what
+1:53:01 - happens next instead of punching you
+1:53:07 - punching through you he shoves out through the window
+1:53:14 - you hear the sound shattering glass and you don't do that hanging in suspended air
+1:53:20 - thing like in the cartoons you plummet straight down to the parking lot it's three stories
+1:53:27 - it's a superficial point of damage for every three meters or so so
+1:53:33 - it's 12 points of superficial damage cut in half okay and then minus your toughness which leaves you with
+1:53:41 - my toughness is two but that is for taking down um yes so that would leave me with four
+1:53:50 - so your health track is almost filled up no you've got a little left right let's
+1:53:56 - see here i am normally at five so you filled four boxes with superficial damage
+1:54:04 - one more and you're trackable filled and you'll be impaired you land with a sickening crunch
+1:54:10 - fortunately it didn't hit anybody's car that hurt
+1:54:15 - you can hear and feel bones moved where they're not supposed to be
+1:54:21 - you think maybe you fractured your wrist you're just staring up at the night sky and the broken window
+1:54:28 - three stories above you if you didn't have toughness
+1:54:34 - you'd be on the uh road to torpor yeah hey man are you okay
+1:54:39 - holy crap i can't believe you're alive oh yeah call an ambulance i'm just gonna
+1:54:47 - back into this [Music] there's no reception here though go that
+1:54:54 - way you're gonna have to now it hurts yeah we need to we need to yeah we need to with the cage
+1:55:01 - he gives an address you start shouting takes his attention off of you and as
+1:55:06 - soon as he is i'm gonna start moving to away pick yourself up yep your suit is ruined absolutely ruined
+1:55:15 - are you attempting to leave this vicinity before he at least get around a corner or something like that
+1:55:21 - now margo mesmerism
+1:55:28 - didn't work out so well but something else happens
+1:55:33 - something stirs in your heart
+1:55:38 - and in your blood and your mouth is filled with that cinnamony paprika-y
+1:55:45 - red pepper taste that you recall when you drank shy earlier this evening
+1:55:51 - and without intending to without conscious thought
+1:55:59 - suddenly all that star magnetism that you're able
+1:56:04 - to bring to bear when you want to practically glows
+1:56:10 - from your body you become the most riveting creature on
+1:56:15 - the planet for just a moment long enough
+1:56:21 - for richter to put his attention completely on you
+1:56:29 - hey he was bored with this as i am
+1:56:35 - terribly i remember you said you uh like to dance
+1:56:40 - yeah all right always with partner let's go have a talk okay and a little dance
+1:56:47 - consuela looks like she is going to come over the table at you
+1:56:55 - fingers curl into fists and she looks like she's going to start
+1:57:01 - something but she thinks better of it
+1:57:09 - and she just watches you leave with him i happily like loop my arm in his and
+1:57:14 - blow our little kisses i leave the room
+1:57:20 - he's friendly he's attentive he isn't particularly affectionate at
+1:57:26 - least not yet but the night's not over
+1:57:35 - lizzie hasn't stopped looking at you for a moment
+1:57:41 - well i look at consuela are we allowed to leave
+1:57:51 - she's just staring after margot and richter she nods
+1:57:56 - we should go okay lizzy holds out her hand
+1:58:03 - just a moment yeah she pulls her hair
+1:58:09 - away from her eyes so that she can see her full face for the first time
+1:58:14 - and she looks at you intently
+1:58:24 - let's see how hungry is she
+1:58:42 - i see you when she says this her eyes are closed
+1:58:49 - and they see you too i believe you now
+1:58:58 - you are not one of them
+1:59:04 - but they might be one of you hmm
+1:59:16 - hello good night good night
+1:59:22 - uh consuela we will confer about that piece perhaps you touch one rusted paint
+1:59:30 - fleck on this building and i'll put you in that chair downstairs
+1:59:36 - okay it will not happen
+1:59:41 - we should yeah
+1:59:51 - richter and margo
+1:59:59 - he escorts you to the cage
+2:00:04 - it's not easy to keep your balance in there but it's a lot of fun it's a raw
+2:00:13 - visceral experience swaying high above the crowd knowing that if these chains break
+2:00:21 - you're going down you're gonna crush the people below you it's part of the fun
+2:00:28 - richter is a surprisingly good dancer but he climbs on
+2:00:33 - the cage uses his unnatural strength
+2:00:40 - to move around it in ways that he probably shouldn't
+2:00:46 - the crowd is really into it and they're into you and him together
+2:00:52 - below you bronx cheers finishing their set crowd is going absolutely wild in approval
+2:01:01 - richter smiles at you good time the best
+2:01:08 - and i'm gonna try to kiss him you're gonna go in for the kiss he's not gonna stop you
+2:01:16 - he'll return it he's a good kisser maybe a little out of practice
+2:01:25 - the night's still young the night is still young so we leave you
+2:01:30 - swaying above the crowd the music crescendoing below you the kiss
+2:01:36 - taking on an unlife all its own
+2:01:43 - the rest of you making your way out or staying around for margo
+2:01:51 - i'll stick around i'll go find rey
+2:02:01 - when you find him oh ah you're still with us yeah
+2:02:10 - how did they do they're fine yeah good do they pass the test
+2:02:15 - uh margot is dancing with
+2:02:21 - richter and um i was keeping an eye on her
+2:02:26 - so i think things are fine good can you walk
+2:02:32 - slowly at first but yeah yeah yeah yeah i'll be fine great
+2:02:39 - you can see that at the entrance of the parking lot there are a couple emergency vehicles approaching
+2:02:46 - police car it's lights flashing and followed by an ambulance probably for you
+2:02:53 - i'll drop the jacket here just so i look a little different especially because that took
+2:02:59 - a lot of the damage as well uh and then we'll walk around
+2:03:05 - is there like a smoking patio or something like that everybody's smoking everywhere around here
+2:03:12 - okay i'll um i'll just kind of see if i can just
+2:03:18 - blend in to uh uh try to be uh
+2:03:28 - keep an eye out for them when they come out yes she's gonna chill here if you can you
+2:03:35 - can keep an eye on them i'm just gonna take a second all right
+2:03:42 - ah
+2:03:48 - i uh stationed myself out where i can see the entrance to the club and where they
+2:03:54 - would exit and i just wait
+2:04:00 - airbox comes to find you emerges from the side door
+2:04:08 - looks around walks over to you
+2:04:13 - you okay
+2:04:18 - enjoying the night air
+2:04:26 - yeah that one's gonna sting a little while i tried to tell you
+2:04:34 - but you didn't want to listen are you ready now
+2:04:44 - go ahead i'll keep it short
+2:04:50 - you're gonna find out it's hard to tell which hurts more
+2:04:56 - the ones we choose to make like us or the ones we leave behind
+2:05:04 - i do feel sorry for you not for the reasons you think
+2:05:10 - now you guys got domain to take care of so i recommend you go do it
+2:05:17 - have a good night have a good one like i said i knew you'd
+2:05:22 - love the sound of your own voice eventually he shrugs as he walks away
+2:05:29 - some licks just won't be told see you next time
+2:05:38 - with margo enjoying the last of the evening swaying above the crowd
+2:05:44 - with richter serif keeping a careful eye on her associate and drinking in every detail
+2:05:52 - isaac and rey picking up the pieces of their night
+2:05:58 - this seems like the perfect place to end our vampire story for now
+2:06:18 - you
