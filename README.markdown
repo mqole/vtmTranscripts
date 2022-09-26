@@ -11,6 +11,7 @@ Big WIP, still in the troubleshooting phase. I'm real bad at jekyll so if you ha
 - Season table of contents?
 - Fix the callouts in `_config.yml`
 - Headers to introduce episode cast, etc.
+  - include 'next episode' 'previous episode' 'auspex episode' hotlinks
 - Standardised form of content warnings with a click-for-spoilers
   - are click spoilers needed?? it IS wod. tbd on this
 - Compatibility with reader views, screen readers, etc
